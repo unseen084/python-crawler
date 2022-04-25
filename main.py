@@ -25,8 +25,11 @@ def crawler(url):
             image_name = item.find('div', class_='p-item-img').img['alt']
 
             product_info = {
-
-                'price': price
+                'name': name,
+                'product_link': product_link,
+                'price': price,
+                'image_link': image_link,
+                'image_name': image_name
             }
             prod_list.append(product_info)
         print(total_products)
