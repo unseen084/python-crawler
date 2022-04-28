@@ -1,1007 +1,1017 @@
-,price
-0,"
-8,500৳ "
-1,"
-9,200৳ "
-2,"
-9,200৳ "
-3,"
-9,200৳ "
-4,"
-9,300৳ "
-5,"
+,name,product_link,price,image_link,image_name
+0, Acer EB192Q 18.5 Inch HD Backlit LED LCD Monitor,https://www.startech.com.bd/acer-eb192q-hd-backlit-led-lcd-monitor,"
+8,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/acer/eb192q/eb192q-01-228x228.jpg,Acer EB192Q 18.5 Inch HD Backlit LED LCD Monitor
+1," AOC E970SWHEN 18.5"" HDMI LED Monitor",https://www.startech.com.bd/aoc-e970swhen-led-monitor,"
+9,200৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/aoc/e970swhen/e970Swhen-main-228x228.jpg,"AOC E970SWHEN 18.5"" HDMI LED Monitor"
+2," Dell D1918H 18.5 Inch LED Monitor (VGA, HDMI)",https://www.startech.com.bd/dell-d1918h-monitor,"
+9,200৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/dell/d1918h/d1918h-01-228x228.jpg,"Dell D1918H 18.5 Inch LED Monitor (VGA, HDMI)"
+3, Lenovo D19-10 18.5 Inch HD HDMI VGA Monitor,https://www.startech.com.bd/lenovo-d19-10-wled-monitor,"
+9,200৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/d19-10/d19-10-01-228x228.jpg,Lenovo D19-10 18.5 Inch HD HDMI VGA Monitor
+4, Dell E1916HV 18.5 Inch LED Monitor (VGA),https://www.startech.com.bd/dell-e1916hv-18-5-inch--led-monitor,"
+9,300৳ ",https://www.startech.com.bd/image/cache/data/MONITOR/DELL22/dell-e1914h-228x228.jpg,Dell E1916HV 18.5 Inch LED Monitor (VGA)
+5," PHILIPS 18.5"" 193V5LSB2 LED MONITOR",https://www.startech.com.bd/philips-18.5-inch-led-193v,"
 9,600৳ 9,900৳
-"
-6,"
-9,999৳ "
-7,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/philips/193v/193v-228x228.png,"PHILIPS 18.5"" 193V5LSB2 LED MONITOR"
+6," Viewsonic VA1903H 18.5"" FHD LED Monitor ",https://www.startech.com.bd/viewsonic-va1903h-monitor,"
+9,999৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/va1903h/va1903h-228x228.jpg,"Viewsonic VA1903H 18.5"" FHD LED Monitor "
+7," Philips 18.5"" 193V5LHSB2 LED Monitor with HDMI",https://www.startech.com.bd/philips-193v5lhsb2-monitor,"
 9,700৳ 10,000৳
-"
-8,"
-10,000৳ "
-9,"
-10,100৳ "
-10,"
-10,400৳ "
-11,"
-10,200৳ "
-12,"
-10,900৳ "
-13,"
-10,900৳ "
-14,"
-11,500৳ "
-15,"
-13,200৳ "
-16,"
-13,500৳ "
-17,"
-13,600৳ "
-18,"
-13,600৳ "
-19,"
-13,650৳ "
-20,"
-13,800৳ "
-21,"
-14,000৳ "
-22,"
-14,200৳ "
-23,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/philips/193v5lhsb2/193v5lhsb2-228x228.png,"Philips 18.5"" 193V5LHSB2 LED Monitor with HDMI"
+8," HP P19V G4 18.5"" HD Monitor",https://www.startech.com.bd/hp-p19v-g4-monitor,"
+10,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/p19v-g4/p19v-g4-1-228x228.jpg,"HP P19V G4 18.5"" HD Monitor"
+9, HP V19 18.5 Inch HD Monitor,https://www.startech.com.bd/hp-v19-hd-monitor,"
+10,100৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/v19/v19-01-228x228.jpg,HP V19 18.5 Inch HD Monitor
+10, LG 19M38A 18.5 Inch Monitor,https://www.startech.com.bd/lg-19m38a-18.5-inch,"
+10,400৳ ",https://www.startech.com.bd/image/cache/catalog/Monitor/LG Monitor/LG 19M38A-228x228.jpg,LG 19M38A 18.5 Inch Monitor
+11," LG 20MK400A-B 19.5"" FHD Monitor",https://www.startech.com.bd/lg-20mk400a-b-19-5-inch-monitor,"
+10,200৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/20mk400h-b/20mk400h-b-228x228.jpg,"LG 20MK400A-B 19.5"" FHD Monitor"
+12," Dell E2016HV 19.5"" LED Monitor",https://www.startech.com.bd/dell-e2016hv-19-5-inch--led-monitor,"
+10,900৳ ",https://www.startech.com.bd/image/cache/data/MONITOR/DELL 19.5 LED E2015HV-500x500-228x228.jpg,"Dell E2016HV 19.5"" LED Monitor"
+13," HP P204v 19.5 Inch HD LED Monitor (HDMI, VGA)",https://www.startech.com.bd/hp-P204v-19-monitor,"
+10,900৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/P204v/P204v-228x228.jpg,"HP P204v 19.5 Inch HD LED Monitor (HDMI, VGA)"
+14, Lenovo D20-20 19.5 inch LCD Monitor,https://www.startech.com.bd/lenovo-d20-20-lcd-monitor,"
+11,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/d20-20/lenovo-d20-20-01-228x228.jpg,Lenovo D20-20 19.5 inch LCD Monitor
+15, LG 22MP410 21.5'' FreeSync Full HD IPS Monitor,https://www.startech.com.bd/lg-22mp410-freesync-full-hd-ips-monitor,"
+13,200৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/22mp410/22mp410-01-228x228.jpg,LG 22MP410 21.5'' FreeSync Full HD IPS Monitor
+16," Dell SE2222H 21.5"" FHD Monitor",https://www.startech.com.bd/dell-se2222h-fhd-monitor,"
+13,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/dell/se2222h/se2222h-01-228x228.jpg,"Dell SE2222H 21.5"" FHD Monitor"
+17," LG 22MK430H-B 22"" Full HD IPS LED Monitor with AMD FreeSync",https://www.startech.com.bd/lg-22mk430h-b-monitor,"
+13,600৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/22mk430h-b/22mk430h-b-228x228.jpg,"LG 22MK430H-B 22"" Full HD IPS LED Monitor with AMD FreeSync"
+18," Xiaomi Redmi 1A 23.8"" Monitor",https://www.startech.com.bd/xiaomi-redmi-display-1a-monitor,"
+13,600৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/xiaomi/redmi-display-1a/redmi-display-1a-1-228x228.jpg,"Xiaomi Redmi 1A 23.8"" Monitor"
+19," HP V22v 21.5"" FHD LED Monitor",https://www.startech.com.bd/hp-v22v-fhd-led-monitor,"
+13,650৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/v22v/v22v-01-228x228.jpg,"HP V22v 21.5"" FHD LED Monitor"
+20," HP P22v G4 21.5"" Full HD Monitor",https://www.startech.com.bd/hp-p22v-g4-fhd-monitor,"
+13,800৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/p22v-g4/p22v-g4-01-228x228.jpg,"HP P22v G4 21.5"" Full HD Monitor"
+21, Acer HA220Q 21.5 inch IPS Full HD Monitor,https://www.startech.com.bd/acer-ha220q-21-5-inch-monitor,"
+14,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/acer/ha220q/ha220q-01-228x228.jpg,Acer HA220Q 21.5 inch IPS Full HD Monitor
+22," BenQ GW2280 22"" Eye-care Stylish Full HD LED Monitor",https://www.startech.com.bd/benq-gw2280-22-inch-fhd-monitor,"
+14,200৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/gw2283/gw2283-228x228.jpg,"BenQ GW2280 22"" Eye-care Stylish Full HD LED Monitor"
+23," AOC 22B2HN 21.5"" FHD Monitor",https://www.startech.com.bd/aoc-22b2hn-fhd-monitor,"
 13,900৳ 14,500৳
-"
-24,"
-14,900৳ "
-25,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/aoc/22b2hn/22b2hn-03-228x228.jpg,"AOC 22B2HN 21.5"" FHD Monitor"
+24," Philips 221V8 22"" FHD Monitor",https://www.startech.com.bd/philips-221v8-22-inch-fhd-monitor,"
+14,900৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/philips/221v8/221v8-01-228x228.jpg,"Philips 221V8 22"" FHD Monitor"
+25," ViewSonic VA2215-H 22"" Full HD Monitor",https://www.startech.com.bd/viewsonic-va2215-h-22-inch-monitor,"
 13,500৳ 15,000৳
-"
-26,"
-15,100৳ "
-27,"
-15,200৳ "
-28,"
-15,450৳ "
-29,"
-15,500৳ "
-30,"
-15,700৳ "
-31,"
-16,000৳ "
-32,"
-16,200৳ "
-33,"
-16,500৳ "
-34,"
-16,750৳ "
-35,"
-17,100৳ "
-36,"
-17,500৳ "
-37,"
-19,700৳ "
-38,"
-19,800৳ "
-39,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/va2215-h/va2215-h-01-228x228.jpg,"ViewSonic VA2215-H 22"" Full HD Monitor"
+26," Asus VP229HE 21.5"" Full HD FreeSync Eye Care Monitor",https://www.startech.com.bd/asus-vp229he-full-hd-monitor,"
+15,100৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vp229he/vp229he-01-228x228.jpg,"Asus VP229HE 21.5"" Full HD FreeSync Eye Care Monitor"
+27, BenQ GW2283 21.5 Inch Eye-care Stylish Full HD IPS Monitor,https://www.startech.com.bd/benq-gw2283-ips-monitor,"
+15,200৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/gw2283/gw2283-228x228.jpg,BenQ GW2283 21.5 Inch Eye-care Stylish Full HD IPS Monitor
+28," SAMSUNG LF22T350 22"" Full HD IPS LED Monitor",https://www.startech.com.bd/samsung-lf22t350-22-inch-monitor,"
+15,450৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/samsung/lf22t350fhnxza/lf22t350fhnxza-228x228.jpg,"SAMSUNG LF22T350 22"" Full HD IPS LED Monitor"
+29, Lenovo L22e-30 21.5-inch FHD Monitor,https://www.startech.com.bd/lenovo-l22e-30-monitor,"
+15,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/l22e-30/l22e-30-01-228x228.jpg,Lenovo L22e-30 21.5-inch FHD Monitor
+30," Lenovo L22i-30 21.5"" FHD IPS FreeSync Monitor",https://www.startech.com.bd/lenovo-l22i-30-monitor,"
+TBA
+",https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/l22i-30/l22i-30-01-228x228.jpg,"Lenovo L22i-30 21.5"" FHD IPS FreeSync Monitor"
+31," Lenovo G24-20 23.8"" FHD Gaming Monitor",https://www.startech.com.bd/lenovo-g24-20-monitor,"
+TBA
+",https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/g24-20/g24-20-01-228x228.jpg,"Lenovo G24-20 23.8"" FHD Gaming Monitor"
+32," Lenovo L24i-30 23.8"" FHD IPS FreeSync Monitor",https://www.startech.com.bd/lenovo-l24i-30-monitor,"
+TBA
+",https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/l24i-30/l24i-30-01-228x228.jpg,"Lenovo L24i-30 23.8"" FHD IPS FreeSync Monitor"
+33, LG 22MK600M 21.5 inch IPS Full HD LED Monitor,https://www.startech.com.bd/lg-22mk600m-full-hd-monitor,"
+15,700৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/22mk600m/lg-22mk600m-1-228x228.jpg,LG 22MK600M 21.5 inch IPS Full HD LED Monitor
+34," Viewsonic VX2276-SHD 75hz 21.5"" FHD IPS LED Monitor",https://www.startech.com.bd/viewsonic-vx2276-shd-led-monitor,"
+16,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/vx2276-smhd/vx2276-smhd-228x228.jpg,"Viewsonic VX2276-SHD 75hz 21.5"" FHD IPS LED Monitor"
+35," Huawei Display AD80HW 23.8"" IPS FHD Monitor",https://www.startech.com.bd/huawei-display-ad80hw-23-8-inch-monitor,"
+16,200৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/huawei/ad80hw/ad80hw-228x228.jpg,"Huawei Display AD80HW 23.8"" IPS FHD Monitor"
+36, Asus VZ229H 21.5-inch Full HD LED Backlit Monitor,https://www.startech.com.bd/asus-vz229h-monitor,"
+16,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vz229h/vz229h-228x228.jpg,Asus VZ229H 21.5-inch Full HD LED Backlit Monitor
+37," HP M22f 22"" FHD IPS Monitor",https://www.startech.com.bd/hp-m22f-22-inch-monitor,"
+16,750৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/m22f/m22f-228x228.jpg,"HP M22f 22"" FHD IPS Monitor"
+38," Asus VA229QSB 21.5"" IPS Full HD Eye Care Monitor",https://www.startech.com.bd/asus-va229qsb-monitor,"
+17,100৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/va229qsb/va229qsb-01-228x228.jpg,"Asus VA229QSB 21.5"" IPS Full HD Eye Care Monitor"
+39," Xiaomi Redmi RMMNT27NF 27"" FHD IPS Monitor",https://www.startech.com.bd/xiaomi-redmi-rmmnt27nf-27-inch-monitor,"
+17,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/xiaomi/redmi/redmi-01-228x228.jpg,"Xiaomi Redmi RMMNT27NF 27"" FHD IPS Monitor"
+40," HP P24v G4 23.8"" FHD Monitor",https://www.startech.com.bd/hp-p24v-g4-fhd-monitor,"
+19,700৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/p24v-g4/p24v-g4-01-228x228.jpg,"HP P24v G4 23.8"" FHD Monitor"
+41," LG 24MP400-B 24"" Full HD IPS Monitor",https://www.startech.com.bd/lg-24mp400-b-24-inch-fhd-ips-monitor,"
+19,800৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/24mp400-b/24mp400-b-01-228x228.jpg,"LG 24MP400-B 24"" Full HD IPS Monitor"
+42," LG 24MK430H-B 24"" Full HD FreeSync IPS LED Monitor",https://www.startech.com.bd/lg-24mk430h-b-24-inch-fhd-monitor,"
 17,999৳ 20,000৳
-"
-40,"
-20,200৳ "
-41,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/24mk430h-b/24mk430h-b-01-228x228.jpg,"LG 24MK430H-B 24"" Full HD FreeSync IPS LED Monitor"
+43, BenQ GW2480 24 inch Full HD Eye-Care Business IPS Monitor,https://www.startech.com.bd/benq-gw2480-fhd-monitor,"
+20,200৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/gw2480/gw2480-001-228x228.jpg,BenQ GW2480 24 inch Full HD Eye-Care Business IPS Monitor
+44," PHILIPS 241V8 24"" IPS FHD Monitor",https://www.startech.com.bd/philips-241v8-24-inch-monitor,"
 19,700৳ 20,500৳
-"
-42,"
-20,650৳ "
-43,"
-21,100৳ "
-44,"
-21,200৳ "
-45,"
-22,150৳ "
-46,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/philips/241v8/221v8-01-228x228.jpg,"PHILIPS 241V8 24"" IPS FHD Monitor"
+45," HP E22 G4 21.5"" FHD IPS Monitor",https://www.startech.com.bd/hp-e22-g4-monitor,"
+20,650৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/e22-g4/e22-g4-1-228x228.jpg,"HP E22 G4 21.5"" FHD IPS Monitor"
+46," HP M24f 24"" FHD IPS Monitor",https://www.startech.com.bd/hp-m24f-24-inch-monitor,"
+21,100৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/m24f/m24f-228x228.jpg,"HP M24f 24"" FHD IPS Monitor"
+47," Asus VY249HE 24"" FHD IPS Eye Care Monitor",https://www.startech.com.bd/asus-vy249he-24-inch-monitor,"
+21,200৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vy249he/vy249he-01-228x228.jpg,"Asus VY249HE 24"" FHD IPS Eye Care Monitor"
+48, Asus VA24EHE 23.8 Inch 75Hz Full HD Monitor,https://www.startech.com.bd/asus-va24ehe-full-hd-monitor,"
+22,150৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/va24ehe/va24ehe-1-228x228.jpg,Asus VA24EHE 23.8 Inch 75Hz Full HD Monitor
+49, Dell S2421HN 24'' IPS AMD FreeSync Full HD Monitor,https://www.startech.com.bd/dell-s2421hn-full-hd-monitor,"
 21,500৳ 22,500৳
-"
-47,"
-22,800৳ "
-48,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/dell/s2421hn/s2421hn-1-228x228.jpg,Dell S2421HN 24'' IPS AMD FreeSync Full HD Monitor
+50, ViewSonic VA2432-h 24” 75Hz Full HD IPS Monitor,https://www.startech.com.bd/viewsonic-va2432-h-24-monitor,"
+22,800৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/va2432-h/va2432-h-228x228.jpg,ViewSonic VA2432-h 24” 75Hz Full HD IPS Monitor
+51," Philips 246E9QJAB/00 24"" Full HD IPS Freesync Monitor",https://www.startech.com.bd/philips-246e9qjab-00-24-monitor,"
 22,200৳ 23,000৳
-"
-49,"
-23,000৳ "
-50,"
-23,300৳ "
-51,"
-23,500৳ "
-52,"
-24,000৳ "
-53,"
-24,500৳ "
-54,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/philips/246e9qjab-00/246e9qjab-00-228x228.jpg,"Philips 246E9QJAB/00 24"" Full HD IPS Freesync Monitor"
+52," ASUS MB168B 15.6"" HD Portable USB Monitor",https://www.startech.com.bd/asus-mb168b-portable-usb-monitor,"
+23,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/mb168b/mb168b-01-228x228.jpg,"ASUS MB168B 15.6"" HD Portable USB Monitor"
+53," HP E23 G4 23"" FHD IPS Monitor",https://www.startech.com.bd/hp-e23-g4-fhd-monitor,"
+23,300৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/e23-g4/e23-g4-001-228x228.jpg,"HP E23 G4 23"" FHD IPS Monitor"
+54," LG 27MP400-B 27"" FreeSync Full HD IPS Monitor",https://www.startech.com.bd/lg-27mp400-b-27-inch-monitor,"
+23,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/27mp400-b/27mp400-b-228x228.jpg,"LG 27MP400-B 27"" FreeSync Full HD IPS Monitor"
+55, MSI Optix G24C4 23.6 Inch FHD Curved LED Gaming Monitor With 144Hz Refresh Rate,https://www.startech.com.bd/msi-optix-g24c4-gaming-monitor,"
+24,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/msi/optix-g24c4/optix-g24c4-228x228.jpg,MSI Optix G24C4 23.6 Inch FHD Curved LED Gaming Monitor With 144Hz Refresh Rate
+56," BenQ Zowie XL2411K 24"" 144Hz DyAC e-Sports Gaming Monitor",https://www.startech.com.bd/benq-zowie-xl2411k-24-inch-gaming-monitor,"
+24,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/xl2411k/zowie-xl2411k-228x228.jpg,"BenQ Zowie XL2411K 24"" 144Hz DyAC e-Sports Gaming Monitor"
+57," MSI Optix G241 23.8"" 144Hz 1ms FreeSync Full HD Gaming Monitor",https://www.startech.com.bd/msi-optix-g241-24-monitor,"
 24,000৳ 25,000৳
-"
-55,"
-25,000৳ "
-56,"
-25,000৳ "
-57,"
-25,500৳ "
-58,"
-25,500৳ "
-59,"
-26,250৳ "
-60,"
-26,650৳ "
-61,"
-26,750৳ "
-62,"
-26,750৳ "
-63,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/optix-g241-24/optix-g241-24-228x228.jpg,"MSI Optix G241 23.8"" 144Hz 1ms FreeSync Full HD Gaming Monitor"
+58," LG 24GN600-B 23.8"" UltraGear Full HD IPS 144Hz Gaming Monitor",https://www.startech.com.bd/lg-24gn600-b-gaming-monitor,"
+25,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/24gn600-b/24gn600-b-01-228x228.jpg,"LG 24GN600-B 23.8"" UltraGear Full HD IPS 144Hz Gaming Monitor"
+59, Msi Optix MAG241C 23.6 Inch FHD Curved LED Gaming Monitor With 144Hz Refresh Rate,https://www.startech.com.bd/msi-optix-mag241c-fhd-led-monitor,"
+25,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/msi/mag241c/mag241c-228x228.jpg,Msi Optix MAG241C 23.6 Inch FHD Curved LED Gaming Monitor With 144Hz Refresh Rate
+60, BenQ GW2480T 24 inch Full HD Eye-Care Stylish IPS Monitor,https://www.startech.com.bd/benq-gw2480t-eye-care-stylish-ips-monitor,"
+25,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/gw2480t/gw2480t-01-228x228.jpg,BenQ GW2480T 24 inch Full HD Eye-Care Stylish IPS Monitor
+61," AOC G2590PX 24.5"" Full HD 144HZ Freesync Gaming Monitor",https://www.startech.com.bd/aoc-g2590px-fhd-gaming-monitor,"
+26,250৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/aoc/g2590px/g2590px-01-228x228.jpg,"AOC G2590PX 24.5"" Full HD 144HZ Freesync Gaming Monitor"
+62," GIGABYTE G27FC 27"" 165Hz Full HD Curved Gaming Monitor",https://www.startech.com.bd/gigabyte-g27fc-monitor,"
+26,650৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/gigabyte/g27fc/g27fc-228x228.jpg,"GIGABYTE G27FC 27"" 165Hz Full HD Curved Gaming Monitor"
+63," Asus VP249QGR 23.8"" 144 Hz Full HD Gaming Monitor",https://www.startech.com.bd/asus-vp249qgr-gaming-monitor,"
+26,750৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vp249qgr/vp249qgr-228x228.jpg,"Asus VP249QGR 23.8"" 144 Hz Full HD Gaming Monitor"
+64," Asus TUF VG249Q1A 23.8"" 165Hz Full HD IPS LED Gaming Monitor",https://www.startech.com.bd/asus-tuf-vg249q1a-23-8-inch-gaming-monitor,"
+26,750৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vg249q1a/vg249q1a-228x228.jpg,"Asus TUF VG249Q1A 23.8"" 165Hz Full HD IPS LED Gaming Monitor"
+65," Philips 276E9QJAB/94 27"" FHD LCD Monitor With Ultra Wide Color",https://www.startech.com.bd/philips-276e9qjab-94-monitor,"
 26,300৳ 27,000৳
-"
-64,"
-27,000৳ "
-65,"
-27,500৳ "
-66,"
-27,500৳ "
-67,"
-27,500৳ "
-68,"
-27,500৳ "
-69,"
-27,900৳ "
-70,"
-28,000৳ "
-71,"
-28,000৳ "
-72,"
-28,100৳ "
-73,"
-28,650৳ "
-74,"
-28,900৳ "
-75,"
-29,250৳ "
-76,"
-29,500৳ "
-77,"
-29,850৳ "
-78,"
-30,500৳ "
-79,"
-30,500৳ "
-80,"
-30,750৳ "
-81,"
-31,250৳ "
-82,"
-31,500৳ "
-83,"
-32,000৳ "
-84,"
-33,500৳ "
-85,"
-34,250৳ "
-86,"
-34,250৳ "
-87,"
-34,500৳ "
-88,"
-34,500৳ "
-89,"
-35,000৳ "
-90,"
-35,250৳ "
-91,"
-35,250৳ "
-92,"
-36,500৳ "
-93,"
-37,200৳ "
-94,"
-37,250৳ "
-95,"
-37,500৳ "
-96,"
-37,500৳ "
-97,"
-37,500৳ "
-98,"
-38,650৳ "
-99,"
-38,900৳ "
-100,"
-39,000৳ "
-101,"
-39,250৳ "
-102,"
-40,250৳ "
-103,"
-40,500৳ "
-104,"
-40,500৳ "
-105,"
-41,500৳ "
-106,"
-41,750৳ "
-107,"
-41,750৳ "
-108,"
-42,500৳ "
-109,"
-43,000৳ "
-110,"
-43,000৳ "
-111,"
-43,500৳ "
-112,"
-43,500৳ "
-113,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/philips/276e9qjab-69/lcd-monitor-27inch-ultra-wide-color-1-228x228.jpg,"Philips 276E9QJAB/94 27"" FHD LCD Monitor With Ultra Wide Color"
+66," LG 24GN650-B 24"" UltraGear FHD IPS 1ms 144Hz HDR Gaming Monitor",https://www.startech.com.bd/lg-24gn650-b-24-inch-ultragear-fhd-monitor,"
+27,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/24gn650-b/24gn650-b-01-228x228.jpg,"LG 24GN650-B 24"" UltraGear FHD IPS 1ms 144Hz HDR Gaming Monitor"
+67, BenQ GW2780 27 inch Full HD Eye-care IPS Monitor,https://www.startech.com.bd/benq-gw2780-fhd-monitor,"
+27,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/gw2780/gw2780-228x228.jpg,BenQ GW2780 27 inch Full HD Eye-care IPS Monitor
+68," ASUS BE24EQK 23.8"" FHD Business Monitor with Webcam",https://www.startech.com.bd/asus-be24eqk-business-monitor,"
+27,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/be24eqk/asus-be24eqk-01-228x228.jpg,"ASUS BE24EQK 23.8"" FHD Business Monitor with Webcam"
+69," ASUS VY279HE 27"" 75Hz FHD FreeSync IPS Eye Care Monitor",https://www.startech.com.bd/asus-vy279he-fhd-eye-care-monitor,"
+27,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vy279he/vy279he-01-228x228.jpg,"ASUS VY279HE 27"" 75Hz FHD FreeSync IPS Eye Care Monitor"
+70, HP M27FW 27'' FHD IPS Monitor,https://www.startech.com.bd/hp-m27fw-27-inch-fhd-ips-monitor,"
+27,100৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/m27fw/m27fw-01-228x228.jpg,HP M27FW 27'' FHD IPS Monitor
+71," MSI Optix G243 23.8"" 165Hz FHD Gaming Monitor",https://www.startech.com.bd/msi-optix-g243-fhd-gaming-monitor,"
+27,900৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/msi/g243/g243-01-228x228.jpg,"MSI Optix G243 23.8"" 165Hz FHD Gaming Monitor"
+72," ViewSonic VX2781-MH 27"" 75Hz Full HD IPS Monitor",https://www.startech.com.bd/viewsonic-vx2781-mh-27-monitor,"
+28,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/vx2781-mh/vx2781-mh-228x228.jpg,"ViewSonic VX2781-MH 27"" 75Hz Full HD IPS Monitor"
+73," Viewsonic XG2405 24"" 144Hz AMD FreeSync IPS Gaming Monitor",https://www.startech.com.bd/viewsonic-xg2405-freesync-ips-gaming-monitor,"
+28,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/xg2405/xg2405-1-228x228.jpg,"Viewsonic XG2405 24"" 144Hz AMD FreeSync IPS Gaming Monitor"
+74," ASUS VG258QR 24.5"" FHD 165Hz Gaming Monitor",https://www.startech.com.bd/asus-vg258qr-fhd-165hz-gaming-monitor,"
+28,100৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vg-258qr/asus-vg258qr-fhd-165hz-gaming-monitor-01-228x228.jpg,"ASUS VG258QR 24.5"" FHD 165Hz Gaming Monitor"
+75, MSI MAG ARTYMIS 242C 24-Inch 165Hz FHD Curved Gaming Monitor,https://www.startech.com.bd/msi-mag-artymis-242c-24-inch-curved-gaming-monitor,"
+28,650৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/msi/mag-artymis-242c/mag-artymis-242c-01-228x228.jpg,MSI MAG ARTYMIS 242C 24-Inch 165Hz FHD Curved Gaming Monitor
+76," MSI Optix G24C6P 23.8"" 144hz Curved Freesync Gaming Monitor",https://www.startech.com.bd/msi-optix-g24c6p-curved-freesync-gaming-monitor,"
+28,900৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/msi/g24c6p/g24c6p-01-228x228.jpg,"MSI Optix G24C6P 23.8"" 144hz Curved Freesync Gaming Monitor"
+77," HP E24i G4 24"" WUXGA Monitor",https://www.startech.com.bd/hp-e24i-g4-wuxga-monitor,"
+29,250৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/e24i-g4/e24i-g4-228x228.jpg,"HP E24i G4 24"" WUXGA Monitor"
+78," BenQ GW2485TC 23.8"" FHD Eye-Care Stylish IPS Monitor",https://www.startech.com.bd/benq-gw2485tc-fhd-monitor,"
+29,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/gw2485tc/gw2485tc-01-228x228.jpg,"BenQ GW2485TC 23.8"" FHD Eye-Care Stylish IPS Monitor"
+79," HP X27 27"" IPS 165Hz FHD FreeSync Gaming Monitor",https://www.startech.com.bd/hp-x27-27-inch-gaming-monitor,"
+29,850৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/x27/hp-x27-27-inch-gaming-monitor-01-228x228.jpg,"HP X27 27"" IPS 165Hz FHD FreeSync Gaming Monitor"
+80," ViewSonic VA2932-MHD 29"" WFHD IPS Monitor",https://www.startech.com.bd/viewsonic-va2932-mhd-29-inch-monitor,"
+30,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/va2932-mhd/va2932-mhd-01-228x228.jpg,"ViewSonic VA2932-MHD 29"" WFHD IPS Monitor"
+81," ASUS VA329HE 31.5"" 75Hz FHD FreeSync IPS Eye Care Monitor",https://www.startech.com.bd/asus-va329he-fhd-eye-care-monitor,"
+30,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/va329he/va329he-01-228x228.jpg,"ASUS VA329HE 31.5"" 75Hz FHD FreeSync IPS Eye Care Monitor"
+82," HP E27 G4 27"" FHD IPS Monitor",https://www.startech.com.bd/hp-e27-g4-fhd-monitor,"
+30,750৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/e27-g4/e27-g4-001-228x228.jpg,"HP E27 G4 27"" FHD IPS Monitor"
+83, Asus TUF VG259Q 24.5” 144Hz Full HD Gaming Monitor,https://www.startech.com.bd/asus-tuf-vg259q-gaming-monitor,"
+31,250৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/tuf-vg259q/tuf-vg259q-228x228.jpg,Asus TUF VG259Q 24.5” 144Hz Full HD Gaming Monitor
+84," LG 32ML600M 32"" IPS Full HD HDR 75Hz Gaming Monitor",https://www.startech.com.bd/lg-32ml600m-gaming-monitor,"
+31,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/32ml600m/32ml600m-01-228x228.jpg,"LG 32ML600M 32"" IPS Full HD HDR 75Hz Gaming Monitor"
+85," ViewSonic TD1655 16"" Portable Multi-Touch IPS FHD Monitor",https://www.startech.com.bd/viewsonic-td1655-16-inch-portable-multi-touch-monitor,"
+32,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/td1655/td1655-01-228x228.jpg,"ViewSonic TD1655 16"" Portable Multi-Touch IPS FHD Monitor"
+86," BenQ GW2785TC 27"" FHD Eye-Care Stylish IPS Monitor",https://www.startech.com.bd/benq-gw2785tc-fhd-monitor,"
+33,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/gw2485tc/gw2485tc-01-228x228.jpg,"BenQ GW2785TC 27"" FHD Eye-Care Stylish IPS Monitor"
+87, Xiaomi XMMNT27HQ 27-Inch QHD 165Hz Gaming Monitor,https://www.startech.com.bd/xiaomi-27-inch-qhd-165hz-gaming-monitor,"
+34,250৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/xiaomi/xiaomi-27-inch/xiaomi-xmmnt27hq-monitor-2-228x228.jpg,Xiaomi XMMNT27HQ 27-Inch QHD 165Hz Gaming Monitor
+88," ASUS TUF GAMING VG259QR 24.5"" FHD 165Hz 1ms G-Sync Gaming Monitor",https://www.startech.com.bd/asus-tuf-gaming-vg259qr-fhd-g-sync-gaming-monitor,"
+34,250৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/tuf-gaming-vg259qr/tuf-gaming-vg259qr-01-228x228.jpg,"ASUS TUF GAMING VG259QR 24.5"" FHD 165Hz 1ms G-Sync Gaming Monitor"
+89," Fantech GM271SF Chimera 27"" 165Hz IPS FHD Gaming Monitor",https://www.startech.com.bd/fantech-gm271sf-chimera-gaming-monitor,"
+34,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/fantech/gm271sf/gm271sf-1-228x228.jpg,"Fantech GM271SF Chimera 27"" 165Hz IPS FHD Gaming Monitor"
+90," BenQ Mobiuz EX2510S 24.5"" 165Hz 1ms IPS Gaming Monitor",https://www.startech.com.bd/benq-mobiuz-ex2510s-gaming-monitor,"
+34,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/mobiuz-ex2510/mobiuz-ex2510-228x228.jpg,"BenQ Mobiuz EX2510S 24.5"" 165Hz 1ms IPS Gaming Monitor"
+91, HP E27q G4 27 Inch 2K QHD IPS Monitor,https://www.startech.com.bd/hp-e27q-g4-qhd-monitor,"
+35,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/e27q-g4/e27q-g4-01-228x228.jpg,HP E27q G4 27 Inch 2K QHD IPS Monitor
+92," Asus VG278QR 27"" 165Hz G-SYNC LED Gaming Monitor",https://www.startech.com.bd/asus-vg278qr-gaming-monitor,"
+35,250৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vg278qr/asus-vg278qr-228x228.jpg,"Asus VG278QR 27"" 165Hz G-SYNC LED Gaming Monitor"
+93, ASUS TUF Gaming VG279Q1R 27 Inch 144Hz Full HD IPS Gaming Monitor,https://www.startech.com.bd/asus-tuf-gaming-vg279q1r-monitor,"
+35,250৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vg279q1r/asus-tuf-gaming-vg279q1r-fullhd-monitor-228x228.png,ASUS TUF Gaming VG279Q1R 27 Inch 144Hz Full HD IPS Gaming Monitor
+94, BenQ EL2870U 28'' 4K 1ms Gaming Monitor,https://www.startech.com.bd/benq-el2870u-4k-gaming-monitor,"
+36,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/el2870u/el2870u-01-228x228.jpg,BenQ EL2870U 28'' 4K 1ms Gaming Monitor
+95," Viewsonic VX3276-2K-mhd-2 32"" IPS QHD Entertainment Monitor",https://www.startech.com.bd/viewsonic-vx3276-2k-mhd-2-monitor,"
+37,200৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/vx3276-2k-mhd-2/vx3276-2k-mhd-2-1-228x228.jpg,"Viewsonic VX3276-2K-mhd-2 32"" IPS QHD Entertainment Monitor"
+96," Asus ProArt Display PA248QV 24"" Adaptive-Sync IPS Professional Monitor",https://www.startech.com.bd/asus-proart-pa248qv-ips-professional-monitor,"
+37,250৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/pa248qv/pa248qv-01-228x228.jpg,"Asus ProArt Display PA248QV 24"" Adaptive-Sync IPS Professional Monitor"
+97, BenQ Zowie XL2731 144Hz 27 Inch 1ms Gaming Monitor,https://www.startech.com.bd/benq-zowie-xl2731-gaming-monitor,"
+37,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/xl2731-001-228x228.jpg,BenQ Zowie XL2731 144Hz 27 Inch 1ms Gaming Monitor
+98," Benq Mobiuz EX2710 27"" 144Hz 1ms FHD IPS Gaming Monitor",https://www.startech.com.bd/benq-mobiuz-ex2710-27-monitor,"
+37,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/mobiuz-ex2710/mobiuz-ex2710-228x228.jpg,"Benq Mobiuz EX2710 27"" 144Hz 1ms FHD IPS Gaming Monitor"
+99," BenQ MOBIUZ EX2710S 27"" 165Hz HDR10 FreeSync FHD Gaming Monitor",https://www.startech.com.bd/benq-mobiuz-ex2710s-gaming-monitor,"
+37,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/ex2710s/ex2710s-01-228x228.jpg,"BenQ MOBIUZ EX2710S 27"" 165Hz HDR10 FreeSync FHD Gaming Monitor"
+100," Gamemax GMX 27C165Q 27"" 2K WQHD G-SYNC Curved Gaming Monitor",https://www.startech.com.bd/gamemax-gmx-27c165q-27-inch-2k-gaming-monitor,"
+38,650৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/gamemax/gmx-27c165q/gmx-27c165q-01-228x228.jpg,"Gamemax GMX 27C165Q 27"" 2K WQHD G-SYNC Curved Gaming Monitor"
+101," HP M32f 31.5"" Full HD FreeSync Monitor",https://www.startech.com.bd/hp-m32f-fhd-monitor,"
+38,900৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/m32f/m32f-01-228x228.jpg,"HP M32f 31.5"" Full HD FreeSync Monitor"
+102," GameMax GMX32CEWQ 32"" 144Hz 2K WQHD FreeSync Curved Gaming Monitor",https://www.startech.com.bd/gamemax-gmx32cewq-wqhd-gaming-monitor,"
+39,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/gamemax/gmx32cewq/gmx32cewq-01-228x228.jpg,"GameMax GMX32CEWQ 32"" 144Hz 2K WQHD FreeSync Curved Gaming Monitor"
+103," ASUS ProArt PA247CV 23.8"" FHD IPS LED Professional Monitor",https://www.startech.com.bd/asus-proart-pa247cv-professional-monitor,"
+39,250৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/proart-pa247cv/proart-pa247cv-01-228x228.jpg,"ASUS ProArt PA247CV 23.8"" FHD IPS LED Professional Monitor"
+104," ASUS VA27AQSB 27"" 2K WQHD IPS Eye Care Monitor",https://www.startech.com.bd/asus-va27aqsb-27-inch-monitor,"
+40,250৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/va27aqsb/va27aqsb-01-228x228.jpg,"ASUS VA27AQSB 27"" 2K WQHD IPS Eye Care Monitor"
+105," Asus ZenScreen MB16AMT 15.6"" FHD IPS USB Type-C Touch Monitor",https://www.startech.com.bd/asus-zenscreen-mb16amt-touch-monitor,"
+40,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/zenscreen-mb16amt/zenscreen-mb16amt-01-228x228.jpg,"Asus ZenScreen MB16AMT 15.6"" FHD IPS USB Type-C Touch Monitor"
+106," GameMax GMX27F4KWU 27"" 4K UHD Gaming Monitor",https://www.startech.com.bd/gamemax-gmx27f4kwu-4k-uhd-gaming-monitor,"
+40,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/gamemax/gmx27f4kwu/gmx27f4kwu-01-228x228.jpg,"GameMax GMX27F4KWU 27"" 4K UHD Gaming Monitor"
+107, BenQ EW2780Q 27'' 2K QHD Gaming Monitor,https://www.startech.com.bd/benq-ew2780q-2k-gaming-monitor,"
+41,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/ew2780q/ew2780q-1-228x228.jpg,BenQ EW2780Q 27'' 2K QHD Gaming Monitor
+108," GIGABYTE G32QC 32"" 165Hz Curved Gaming Monitor",https://www.startech.com.bd/gigabyte-g32qc-curved-gaming-monitor,"
+41,750৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/gigabyte/g32qc/g32qc-1-228x228.jpg,"GIGABYTE G32QC 32"" 165Hz Curved Gaming Monitor"
+109," Gigabyte Aorus FI25F 25"" 2‎40Hz sRGB Full HD Gaming Monitor",https://www.startech.com.bd/gigabyte-aorus-fi25f-25-monitor,"
+41,750৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/gigabyte/aorus-fi25f/aorus-fi25f-228x228.jpg,"Gigabyte Aorus FI25F 25"" 2‎40Hz sRGB Full HD Gaming Monitor"
+110, BenQ PD2700Q DesignVue 27 inch 2K QHD 1440p IPS Monitor,https://www.startech.com.bd/benq-pd2700q-monitor,"
+42,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/pd2700q/pd2700q-1-228x228.jpg,BenQ PD2700Q DesignVue 27 inch 2K QHD 1440p IPS Monitor
+111," ViewSonic VX2758-2KP-MHD 27"" 144Hz WQHD IPS Gaming Monitor",https://www.startech.com.bd/viewsonic-vx2758-2kp-mhd-27-monitor,"
+43,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/vx2758-2kp-mhd/vx2758-2kp-mhd-228x228.jpg,"ViewSonic VX2758-2KP-MHD 27"" 144Hz WQHD IPS Gaming Monitor"
+112," Viewsonic XG2431 24"" 240Hz IPS Gaming Monitor",https://www.startech.com.bd/viewsonic-xg2431-24-inch-gaming-monitor,"
+43,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/xg2431/xg2431-01-228x228.jpg,"Viewsonic XG2431 24"" 240Hz IPS Gaming Monitor"
+113, ASUS TUF VG328H1B 32 Inch FHD 165Hz Curved Gaming Monitor,https://www.startech.com.bd/asus-tuf-vg328h1b-curved-gaming-monitor,"
+43,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vg328h1b/vg328h1b-1-228x228.jpg,ASUS TUF VG328H1B 32 Inch FHD 165Hz Curved Gaming Monitor
+114, ASUS TUF Gaming VG259QM 24.5inch FHD 280Hz G-SYNC Overclockable Monitor,https://www.startech.com.bd/asus-tuf-vg259qm-oc-monitor,"
+43,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vg259qm/vg259qm-228x228.jpg,ASUS TUF Gaming VG259QM 24.5inch FHD 280Hz G-SYNC Overclockable Monitor
+115, LG 27GN750-B 27” UltraGear 240Hz G-Sync FHD IPS Gaming Monitor,https://www.startech.com.bd/lg-27gn750-b-ultragear-gaming-monitor,"
 43,000৳ 44,500৳
-"
-114,"
-45,000৳ "
-115,"
-45,000৳ "
-116,"
-45,250৳ "
-117,"
-45,450৳ "
-118,"
-45,750৳ "
-119,"
-45,900৳ "
-120,"
-46,000৳ "
-121,"
-46,350৳ "
-122,"
-47,250৳ "
-123,"
-47,500৳ "
-124,"
-48,650৳ "
-125,"
-50,250৳ "
-126,"
-50,500৳ "
-127,"
-51,000৳ "
-128,"
-52,500৳ "
-129,"
-52,500৳ "
-130,"
-52,500৳ "
-131,"
-52,900৳ "
-132,"
-53,000৳ "
-133,"
-53,500৳ "
-134,"
-55,250৳ "
-135,"
-55,750৳ "
-136,"
-56,250৳ "
-137,"
-56,500৳ "
-138,"
-56,500৳ "
-139,"
-58,000৳ "
-140,"
-58,750৳ "
-141,"
-60,000৳ "
-142,"
-60,000৳ "
-143,"
-60,250৳ "
-144,"
-60,500৳ "
-145,"
-61,900৳ "
-146,"
-62,500৳ "
-147,"
-62,500৳ "
-148,"
-63,500৳ "
-149,"
-63,750৳ "
-150,"
-64,000৳ "
-151,"
-64,000৳ "
-152,"
-65,250৳ "
-153,"
-66,000৳ "
-154,"
-72,500৳ "
-155,"
-73,000৳ "
-156,"
-74,500৳ "
-157,"
-81,900৳ "
-158,"
-82,000৳ "
-159,"
-91,500৳ "
-160,"
-98,500৳ "
-161,"
-99,500৳ "
-162,"
-100,000৳ "
-163,"
-105,000৳ "
-164,"
-120,000৳ "
-165,"
-120,000৳ "
-166,"
-120,000৳ "
-167,"
-129,000৳ "
-168,"
-134,000৳ "
-169,"
-168,000৳ "
-170,"
-176,000৳ "
-171,"
-181,000৳ "
-172,"
-181,000৳ "
-173,"
-184,000৳ "
-174,"
-240,000৳ "
-175,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/27gn750-b/27gn750-b-1-228x228.jpg,LG 27GN750-B 27” UltraGear 240Hz G-Sync FHD IPS Gaming Monitor
+116, ViewSonic VX2705-2KP-MHD 27” 144Hz QHD Gaming Monitor,https://www.startech.com.bd/viewsonic-vx2705-2kp-mhd-27-inch-qhd-gaming-monitor,"
+45,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/vx2705-2kp-mhd/vx2705-2kp-mhd-001-228x228.jpg,ViewSonic VX2705-2KP-MHD 27” 144Hz QHD Gaming Monitor
+117," Viewsonic XG2705-2K 27"" 144Hz QHD IPS Gaming Monitor",https://www.startech.com.bd/viewsonic-xg2705-2k-27-inch-qhd-gaming-monitor,"
+45,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/xg2705-2k/xg2705-2k-01-228x228.jpg,"Viewsonic XG2705-2K 27"" 144Hz QHD IPS Gaming Monitor"
+118," ASUS TUF Gaming VG279QM 27"" HDR Gaming Monitor",https://www.startech.com.bd/asus-tuf-gaming-vg279qm-gaming-monitor,"
+45,250৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vg279qm/vg279qm-228x228.jpg,"ASUS TUF Gaming VG279QM 27"" HDR Gaming Monitor"
+119," Gigabyte G34WQC 34"" 144Hz FreeSync Ultra wide Gaming Monitor",https://www.startech.com.bd/gigabyte-g34wqc-34-inch-freesync-gaming-monitor,"
+45,450৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/gigabyte/g34wqc/g34wqc-01-228x228.jpg,"Gigabyte G34WQC 34"" 144Hz FreeSync Ultra wide Gaming Monitor"
+120," Gigabyte M28U 28"" 4K UHD 144Hz FreeSync KVM Gaming Monitor",https://www.startech.com.bd/gigabyte-m28u-4k-uhd-kvm-gaming-monitor,"
+45,750৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/gigabyte/m28u/m28u-01-228x228.jpg,"Gigabyte M28U 28"" 4K UHD 144Hz FreeSync KVM Gaming Monitor"
+121," MSI Optix MAG251RX 24.5"" Full HD Gaming Monitor",https://www.startech.com.bd/msi-optix-mag251rx-full-hd-monitor,"
+45,900৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/msi/mag251rx/mag251rx-01-228x228.jpg,"MSI Optix MAG251RX 24.5"" Full HD Gaming Monitor"
+122," ViewSonic VX3268-2KPC-MHD 32"" MVA 144Hz FreeSync Curved Gaming Monitor",https://www.startech.com.bd/viewsonic-vx3268-2kpc-mhd-gaming-monitor,"
+46,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/vx3268-2kpc-mhd/vx3268-2kpc-mhd-1-228x228.jpg,"ViewSonic VX3268-2KPC-MHD 32"" MVA 144Hz FreeSync Curved Gaming Monitor"
+123, ASUS ProArt PA278QV 27-inch WQHD Monitor,https://www.startech.com.bd/asus-proart-pa278qv-monitor,"
+46,350৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/proart-pa278qv/proart-pa278qv-1-228x228.jpg,ASUS ProArt PA278QV 27-inch WQHD Monitor
+124, ASUS TUF VG27AQ 27inch 2k 165Hz G-SYNC Gaming Monitor,https://www.startech.com.bd/asus-tuf-gaming-vg27aq-monitor,"
+47,250৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/tuf-gaming /vg27aq/vg27aq-1-228x228.jpg,ASUS TUF VG27AQ 27inch 2k 165Hz G-SYNC Gaming Monitor
+125," Asus TUF VG27AQ1A 27"" G-SYNC 170Hz 2k Gaming Monitor",https://www.startech.com.bd/asus-tuf-vg27aq1a-27-inch-2k-gaming-monitor,"
+47,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/tuf-vg27aq1a/tuf-vg27aq1a-02-228x228.jpg,"Asus TUF VG27AQ1A 27"" G-SYNC 170Hz 2k Gaming Monitor"
+126," LG UltraGear 27GN800-B 27"" QHD IPS 1ms 144Hz HDR Gaming Monitor",https://www.startech.com.bd/lg-ultragear-27gn800-b-27-inch-144hz-gaming-monitor,"
+48,650৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/27gn800-b/27gn800-b-01-228x228.jpg,"LG UltraGear 27GN800-B 27"" QHD IPS 1ms 144Hz HDR Gaming Monitor"
+127, ASUS TUF VG27WQ1B 27” WQHD Curved 165Hz Gaming Monitor,https://www.startech.com.bd/asus-tuf-vg27wq1b-curved-gaming-monitor,"
+50,250৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/tuf-vg27wq1b/tuf-vg27wq1b-1-228x228.jpg,ASUS TUF VG27WQ1B 27” WQHD Curved 165Hz Gaming Monitor
+128," LG 27UP600-W 27"" 4K UHD IPS Monitor",https://www.startech.com.bd/lg-27up600-w-27-inch-uhd-4k-monitor,"
+50,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/27up600-w/27up600-w-01-228x228.jpg,"LG 27UP600-W 27"" 4K UHD IPS Monitor"
+129," Asus Tuf VG27AQL1A 170Hz IPS G-Sync 27"" Gamimg Monitor",https://www.startech.com.bd/asus-tuf-vg27aql1a-gaming-monitor,"
+51,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vg27aql1a/vg27aql1a-01-228x228.jpg,"Asus Tuf VG27AQL1A 170Hz IPS G-Sync 27"" Gamimg Monitor"
+130," BenQ PD3200Q 32"" QHD 2K sRGB Designer Professional Monitor",https://www.startech.com.bd/benq-pd3200q-monitor,"
+52,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/pd3200q/pd3200q-01-228x228.jpg,"BenQ PD3200Q 32"" QHD 2K sRGB Designer Professional Monitor"
+131, LG 27QN880 27 Inch 2K QHD IPS Ergo Black Monitor,https://www.startech.com.bd/lg-27qn880-27-inch-2k-monitor,"
+52,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/27QN880 /27qn880-big-228x228.jpg,LG 27QN880 27 Inch 2K QHD IPS Ergo Black Monitor
+132," Gigabyte M32U 31.5"" 4K UHD 144Hz FreeSync KVM Gaming Monitor",https://www.startech.com.bd/gigabyte-m32u-4k-uhd-gaming-monitor,"
+52,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/gigabyte/m32u/m32u-01-228x228.jpg,"Gigabyte M32U 31.5"" 4K UHD 144Hz FreeSync KVM Gaming Monitor"
+133, BenQ EX3203R Curved 144Hz 32 Inch QHD 2K Gaming Monitor,https://www.startech.com.bd/benq-ex3203r-144hz-monitor,"
+52,900৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/ex3203r/ex3203r-2-228x228.jpg,BenQ EX3203R Curved 144Hz 32 Inch QHD 2K Gaming Monitor
+134," Viewsonic VX3211-4K-mhd 32"" 4K Entertainment Monitor",https://www.startech.com.bd/viewsonic-vx3211-4k-mhd-32-inch-4k-monitor,"
+53,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/vx3211-4k-mhd/vx3211-4k-mhd-01-228x228.jpg,"Viewsonic VX3211-4K-mhd 32"" 4K Entertainment Monitor"
+135, BenQ ZOWIE XL2546 24.5 inch FHD 240Hz DyAc Technology 1ms Gaming Monitor,https://www.startech.com.bd/benq-zowie-xl2546-monitor,"
+53,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/xl2546k/zowie-xl2546-228x228.jpg,BenQ ZOWIE XL2546 24.5 inch FHD 240Hz DyAc Technology 1ms Gaming Monitor
+136," Asus VP348QGL 34"" UWQHD LED FreeSync Gaming Monitor",https://www.startech.com.bd/asus-vp348qgl-34-monitor,"
+55,250৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vp348qgl-34/vp348qgl-34-228x228.jpg,"Asus VP348QGL 34"" UWQHD LED FreeSync Gaming Monitor"
+137, ASUS ProArt PA278CV 27'' Professional sRGB IPS LED Monitor,https://www.startech.com.bd/asus-proart-pa278cv-professional-monitor,"
+55,750৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/pa278cv/pa278cv-228x228.jpg,ASUS ProArt PA278CV 27'' Professional sRGB IPS LED Monitor
+138, ASUS TUF VG32VQ1B 32 Inch WQHD 165Hz Curved Gaming Monitor,https://www.startech.com.bd/asus-tuf-vg32vq1b-curved-gaming-monitor,"
+56,250৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vg32vq1b/vg32vq1b-1-228x228.jpg,ASUS TUF VG32VQ1B 32 Inch WQHD 165Hz Curved Gaming Monitor
+139, BenQ EW3270U 32 Inch 4K UHD Monitor,https://www.startech.com.bd/benq-zowie-ew3270u-monitor,"
+56,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/ew3270u/ew3270u-1-228x228.jpg,BenQ EW3270U 32 Inch 4K UHD Monitor
+140, Asus VP32UQ 31.5 inch 4K UHD IPS Monitor,https://www.startech.com.bd/asus-vp32uq-4k-uhd-ips-monitor,"
+56,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vp32uq/vp32uq-01-228x228.jpg,Asus VP32UQ 31.5 inch 4K UHD IPS Monitor
+141," Viewsonic VX3418-2KPC 34"" WQHD 144Hz Adaptive Sync Curved Gaming Monitor",https://www.startech.com.bd/viewsonic-vx3418-2kpc-34-inch-wqhd-curved-gaming-monitor,"
+58,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/vx3418-2kpc/vx3418-2kpc-03-228x228.jpg,"Viewsonic VX3418-2KPC 34"" WQHD 144Hz Adaptive Sync Curved Gaming Monitor"
+142," LG 27GL850 27"" UltraGear Nano IPS 1ms Gaming Monitor",https://www.startech.com.bd/lg-27gl850-gaming-monitor,"
+58,750৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/27gl850-b/27gl850-b-3-228x228.jpg,"LG 27GL850 27"" UltraGear Nano IPS 1ms Gaming Monitor"
+143," Viewsonic VP2768 27"" 2K 1440p IPS Monitor",https://www.startech.com.bd/viewsonic-vp2768-ips-monitor,"
+60,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/vp2768/vp2768-1-228x228.jpg,"Viewsonic VP2768 27"" 2K 1440p IPS Monitor"
+144," ViewSonic VA3456-MHDJ 34"" LED Ultrawide IPS Monitor",https://www.startech.com.bd/viewsonic-va3456-mhdj-34-inch-monitor,"
+60,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/va3456-mhdj/va3456-mhdj-front-228x228.jpg,"ViewSonic VA3456-MHDJ 34"" LED Ultrawide IPS Monitor"
+145," Asus ROG Swift PG278QE 27"" 2K WQHD 165Hz Gaming Monitor",https://www.startech.com.bd/asus-rog-swift-pg278qe-gaming-monitor,"
+60,250৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/pg278qe/pg278qe-1-228x228.jpg,"Asus ROG Swift PG278QE 27"" 2K WQHD 165Hz Gaming Monitor"
+146," LG 27GP850-B 27"" UltraGear 165Hz G-SYNC QHD IPS Gaming Monitor",https://www.startech.com.bd/lg-27gp850-b-27-inch-ultragear-gaming-monitor,"
+60,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/27gp850-b/27gp850-b-1-228x228.jpg,"LG 27GP850-B 27"" UltraGear 165Hz G-SYNC QHD IPS Gaming Monitor"
+147, BenQ EX2780Q 144Hz 27 Inch QHD 2K Gaming Monitor,https://www.startech.com.bd/benq-ex2780q-monitor,"
+61,900৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/ex2780q/ex2780q-228x228.jpg,BenQ EX2780Q 144Hz 27 Inch QHD 2K Gaming Monitor
+148, Samsung Odyssey C27G75TQSW 27'' G-Sync 240Hz Curved 2k LED Gaming Monitor,https://www.startech.com.bd/samsung-odyssey-c27g75tqsw-gaming-monitor,"
+62,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/samsung/odyssey-c27g75tqsw/odyssey-c27g75tqsw-01-228x228.jpg,Samsung Odyssey C27G75TQSW 27'' G-Sync 240Hz Curved 2k LED Gaming Monitor
+149, BenQ Zowie XL2546K 25'' 240Hz DyAC+ e-Sports Gaming Monitor,https://www.startech.com.bd/benq-zowie-xl2546k-25-inch-gaming-monitor,"
+62,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/xl2546k/zowie-xl2546-228x228.jpg,BenQ Zowie XL2546K 25'' 240Hz DyAC+ e-Sports Gaming Monitor
+150, BenQ ST4301K 43 Inch Android-Wifi 4K Professional Smart All in One PC Monitor,https://www.startech.com.bd/benq-st4301k-4k-android-digital-signage,"
+63,500৳ ",https://www.startech.com.bd/image/cache/catalog/signage/benq/benq-signage-free-gift-228x228.jpg,BenQ ST4301K 43 Inch Android-Wifi 4K Professional Smart All in One PC Monitor
+151," LG 32UN650-W 31.5"" UHD 4K HDR IPS Monitor",https://www.startech.com.bd/lg-32un650-w-31-5-monitor,"
+63,750৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/32un650-w/32un650-w-228x228.jpg,"LG 32UN650-W 31.5"" UHD 4K HDR IPS Monitor"
+152, BenQ ST4302 43 Inch Android-Wifi 4K Professional Smart Signage,https://www.startech.com.bd/benq-st4302-professional-smart-signage,"
+64,000৳ ",https://www.startech.com.bd/image/cache/catalog/signage/benq/benq-signage-free-gift-228x228.jpg,BenQ ST4302 43 Inch Android-Wifi 4K Professional Smart Signage
+153," LG 32GP850-B 32"" UltraGear 165Hz G-SYNC QHD IPS Gaming Monitor",https://www.startech.com.bd/lg-32gp850-b-32-inch-ultragear-gaming-monitor,"
+64,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/32gp850-b/32gp850-b-228x228.jpg,"LG 32GP850-B 32"" UltraGear 165Hz G-SYNC QHD IPS Gaming Monitor"
+154," ASUS ROG Strix XG32VQR 32"" Curved HDR Gaming Monitor",https://www.startech.com.bd/asus-rog-strix-xg32vqr-hdr-gaming-monitor,"
+65,250৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/rog-strix-xg32vqr/rog-strix-xg32vqr-01-228x228.jpg,"ASUS ROG Strix XG32VQR 32"" Curved HDR Gaming Monitor"
+155, ASUS ProArt Display PA279CV 27” 4K HDR Monitor,https://www.startech.com.bd/asus-proart-display-pa279cv-4k-monitor,"
+66,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/pa279CV/asus-proart-display-pa279cv-4k-monitor-01-228x228.jpg,ASUS ProArt Display PA279CV 27” 4K HDR Monitor
+156, Asus TUF VG35VQ 35” Curved WQHD 100Hz HDR FreeSync Gaming Monitor,https://www.startech.com.bd/asus-tuf-vg35vq-gaming-monitor,"
+72,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/tuf-vg35vq/tuf-vg35vq-010-228x228.jpg,Asus TUF VG35VQ 35” Curved WQHD 100Hz HDR FreeSync Gaming Monitor
+157," LG 34WP65C-B 34"" Curved UltraWide QHD HDR FreeSync Premium Monitor",https://www.startech.com.bd/lg-34wp65c-b-34-inch-curved-ultrawide-monitor,"
+73,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/34wp65c-b/34wp65c-b-01-228x228.jpg,"LG 34WP65C-B 34"" Curved UltraWide QHD HDR FreeSync Premium Monitor"
+158," BenQ MOBIUZ EX2710R 27"" 165Hz FreeSync 2K QHD Curved Gaming Monitor",https://www.startech.com.bd/benq-mobiuz-ex2710r-curved-gaming-monitor,"
+74,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/ex2710r/ex2710r-01-228x228.jpg,"BenQ MOBIUZ EX2710R 27"" 165Hz FreeSync 2K QHD Curved Gaming Monitor"
+159," BenQ EX3501R 35"" Curved sRGB 2K Monitor",https://www.startech.com.bd/benq-ex3501r-curved-srgb-2k-monitor,"
+81,900৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/ex3501r/ex3501r-1-228x228.jpg,"BenQ EX3501R 35"" Curved sRGB 2K Monitor"
+160," ViewSonic VX2882-4KP 28"" 150Hz 4K UHD Gaming Monitor",https://www.startech.com.bd/viewsonic-vx2882-4kp-28-inch-4k-uhd-gaming-monitor,"
+82,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/vx2882-4kp/vx2882-4kp-01-228x228.jpg,"ViewSonic VX2882-4KP 28"" 150Hz 4K UHD Gaming Monitor"
+161, ASUS ROG Swift 360Hz PG259QN 24.5” 1ms G-Sync FHD Gaming Monitor,https://www.startech.com.bd/asus-rog-swift-360hz-pg259qn-monitor,"
+91,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/rog-swift-360hz-pg259qn/rog-swift-360hz-pg259qn-228x228.jpg,ASUS ROG Swift 360Hz PG259QN 24.5” 1ms G-Sync FHD Gaming Monitor
+162," Asus ROG Swift PG259QNR 24.5"" 360Hz FHD eSports G-SYNC Gaming Monitor",https://www.startech.com.bd/asus-rog-swift-pg259qnr-fhd-esports-gaming-monitor,"
+98,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/rog-swift-pg259qnr/rog-swift-pg259qnr-04-228x228.jpg,"Asus ROG Swift PG259QNR 24.5"" 360Hz FHD eSports G-SYNC Gaming Monitor"
+163," BenQ PD3200U 32"" UHD 4K IPS sRGB Monitor",https://www.startech.com.bd/benq-pd3200u-uhd-4k-ips-srgb-monitor,"
+99,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/pd3200u/pd3200u-1-228x228.jpg,"BenQ PD3200U 32"" UHD 4K IPS sRGB Monitor"
+164," Viewsonic XG2703-GS 27"" 165Hz G-SYNC IPS Gaming Monitor",https://www.startech.com.bd/viewsonic-xg2703-gs-165hz-gaming-monitor,"
+100,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/xg2703-gs/xg2703-gs-1-228x228.jpg,"Viewsonic XG2703-GS 27"" 165Hz G-SYNC IPS Gaming Monitor"
+165," MSI Creator PS321URV 32"" 16:9 4K HDR IPS Monitor",https://www.startech.com.bd/msi-creator-ps321urv-4k-monitor,"
+105,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/msi/ps321urv/ps321urv-01-228x228.jpg,"MSI Creator PS321URV 32"" 16:9 4K HDR IPS Monitor"
+166," MSI PRESTIGE PS341WU 34"" 5K, 8MS NANO IPS Monitor",https://www.startech.com.bd/msi-prestige-ps341wu-monitor,"
+120,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/msi/prestige-ps341wu/prestige-ps341wu-228x228.jpg,"MSI PRESTIGE PS341WU 34"" 5K, 8MS NANO IPS Monitor"
+167," BenQ EW3880R 37.5"" 4K UHD Curved Monitor",https://www.startech.com.bd/benq-ew3880r-curved-monitor,"
+120,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/ew3880r/ew3880r-01-228x228.jpg,"BenQ EW3880R 37.5"" 4K UHD Curved Monitor"
+168," ViewSonic VP3268-4K 32"" 4K Ultra HD AH-IPS Professional Monitor",https://www.startech.com.bd/viewsonic-vp3268-4k-ultra-hd-professional-monitor,"
+120,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/vp3268-4k/vp3268-4k-01-228x228.jpg,"ViewSonic VP3268-4K 32"" 4K Ultra HD AH-IPS Professional Monitor"
+169, LG 34GN850-B 34-Inch Curved UltraGear Nano IPS 144Hz Gaming Monitor,https://www.startech.com.bd/lg-34gn850-b-34-inch-curved-ultragear-gaming-monitor,"
+129,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/34gn850-b/34gn850-b-05-228x228.jpg,LG 34GN850-B 34-Inch Curved UltraGear Nano IPS 144Hz Gaming Monitor
+170, Asus ROG Strix XG438Q 43'' Freesync 120Hz 4K UHD Gaming Monitor,https://www.startech.com.bd/asus-rog-strix-xg438q-4k-uhd-gaming-monitor,"
+134,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/rog-strix-xg438q/rog-strix-xg438q-01-228x228.jpg,Asus ROG Strix XG438Q 43'' Freesync 120Hz 4K UHD Gaming Monitor
+171, LG LG34WK95U-W 34 inch UltraWide 5K2K IPS LED Monitor,https://www.startech.com.bd/lg-lg34wk95u-w-ultrawide-5k2k-ips-led-monitor,"
+168,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/lg34wk95u-w/lg34wk95u-w-1-228x228.jpg,LG LG34WK95U-W 34 inch UltraWide 5K2K IPS LED Monitor
+172," LG UltraGear 38GN950-B Quad HD 38"" Curved Nano IPS LCD Gaming Monitor",https://www.startech.com.bd/lg-ultragear-38gn950-b-monitor,"
+176,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/ultragear-38gn950-b/ultragear-38gn950-b-228x228.jpg,"LG UltraGear 38GN950-B Quad HD 38"" Curved Nano IPS LCD Gaming Monitor"
+173," ASUS ProArt PA32UC-K 32"" 4K-UHD IPS HDR Eye Care Professional Monitor",https://www.startech.com.bd/asus-proart-pa32uc-k-32-inch-4k-uhd-ips-hdr-monitor,"
+181,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/proart-pa32uc-k/proart-pa32uc-k-001-228x228.jpg,"ASUS ProArt PA32UC-K 32"" 4K-UHD IPS HDR Eye Care Professional Monitor"
+174, ASUS ROG Strix XG43UQ 43” 4K UHD 144Hz HDR DSC FreeSync Gaming Monitor,https://www.startech.com.bd/asus-rog-strix-xg43uq-gaming-monitor,"
+181,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/asus/xg43uq/xg43uq-01-228x228.jpg,ASUS ROG Strix XG43UQ 43” 4K UHD 144Hz HDR DSC FreeSync Gaming Monitor
+175, Samsung Odyssey C49G95TSSW 49'' G-Sync 240Hz Curved 2k Gaming Monitor,https://www.startech.com.bd/samsung-odyssey-c49g95tssw-gaming-monitor,"
+184,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/samsung/c49g95tssw/c49g95tssw-1-228x228.jpg,Samsung Odyssey C49G95TSSW 49'' G-Sync 240Hz Curved 2k Gaming Monitor
+176, BenQ SW321C 32” 4K UHD IPS Photographer Monitor,https://www.startech.com.bd/benq-sw321c-monitor,"
+240,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/benq/sw270c/sw270c-1-228x228.jpg,BenQ SW321C 32” 4K UHD IPS Photographer Monitor
+177, Samsung 27-Inch LC27F390FHW Curved Monitor,https://www.startech.com.bd/samsung-27-inch-lc27f390fhw,"
 TBA
-"
-176,"
+",https://www.startech.com.bd/image/cache/catalog/Monitor/Samsung/Samsung 27-Inch LC27F390FHW Curved Monitor/Samsung 27-Inch LC27F390FHW Curved Monitor-new-228x228.jpg,Samsung 27-Inch LC27F390FHW Curved Monitor
+178, SAMSUNG C24F390FHW Series Curved 24-Inch FHD Monitor,https://www.startech.com.bd/samsung-c24f390fhw-24inch-led-monitor,"
 TBA
-"
-177,"
+",https://www.startech.com.bd/image/cache/catalog/Component/Monitor/sam/LC24F390FHW-1-228x228.jpg,SAMSUNG C24F390FHW Series Curved 24-Inch FHD Monitor
+179," Philips 245C7QJSB/69 23.8"" slim monitor With ultra wide color",https://www.startech.com.bd/philips-245C7qjsb-69-monitor,"
 TBA
-"
-178,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/philips/245c7qjsb/245c7qjsb-228x228.png,"Philips 245C7QJSB/69 23.8"" slim monitor With ultra wide color"
+180, Asus VX207NE Eye Care 19.5 inch HD Monitor,https://www.startech.com.bd/asus-vx207ne-monitor,"
 TBA
-"
-179,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vx207ne/vx207ne-228x228.jpg,Asus VX207NE Eye Care 19.5 inch HD Monitor
+181," Dell SE2719H 27"" Full HD Monitor",https://www.startech.com.bd/dell-se2719h-monitor,"
 TBA
-"
-180,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/dell/se2719h/se2719h-228x228.jpg,"Dell SE2719H 27"" Full HD Monitor"
+182, HP EliteDisplay E273 27-inch Monitor,https://www.startech.com.bd/hp-elitedisplay-e273-monitor,"
 TBA
-"
-181,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/e273/e273-228x228.jpg,HP EliteDisplay E273 27-inch Monitor
+183," AOC E970SWN 18.5"" Panel LED Monitor",https://www.startech.com.bd/aoc-e970swn-tn-panel-led-monitor,"
 TBA
-"
-182,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/aoc/e970swn/e970swn-228x228.PNG,"AOC E970SWN 18.5"" Panel LED Monitor"
+184," Samsung C24FG73FQW  24"" LED Curved Gaming Monitor With 144Hz Refresh Rate",https://www.startech.com.bd/samsung-c24fg73fqw-gaming-monitor,"
 TBA
-"
-183,"
-34,000৳ "
-184,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/samsung/c24fg73fqw/c24fg73fqw-228x228.jpg,"Samsung C24FG73FQW  24"" LED Curved Gaming Monitor With 144Hz Refresh Rate"
+185," AOC C32G2E 31.5"" 165Hz FHD Curved Gaming Monitor",https://www.startech.com.bd/aoc-c32g2e-fhd-curved-gaming-monitor,"
+34,000৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/aoc/c32g2e/aoc-c32g2e-01-228x228.jpg,"AOC C32G2E 31.5"" 165Hz FHD Curved Gaming Monitor"
+186, MSI Optix MAG241CR 23.6 Inch 144Hz FHD Curved Gaming Monitor,https://www.startech.com.bd/msi-mag241cr-gaming-monitor,"
 TBA
-"
-185,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/mag241cr/mag241cr-228x228.jpg,MSI Optix MAG241CR 23.6 Inch 144Hz FHD Curved Gaming Monitor
+187, Asus VA24DQ 23.8 Inch 75Hz Full HD Eye Care IPS Monitor,https://www.startech.com.bd/asus-va24dq-full-hd-eye-care-ips-monitor,"
 TBA
-"
-186,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/va24dq/va24dq-1-228x228.jpg,Asus VA24DQ 23.8 Inch 75Hz Full HD Eye Care IPS Monitor
+188, Philips 223V7QHSB 21.5inch Edge-to-Edge Full HD IPS LED Monitor,https://www.startech.com.bd/philips-223v7qhsb-edge-to-edge-monitor,"
 TBA
-"
-187,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/philips/223v7qhsb/223v7qhsb-228x228.jpg,Philips 223V7QHSB 21.5inch Edge-to-Edge Full HD IPS LED Monitor
+189," Samsung C27T55 27"" 16:9 FreeSync Curved Monitor",https://www.startech.com.bd/samsung-c27t55-27-monitor,"
 TBA
-"
-188,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/samsung/c27t55-27/c27t55-27-228x228.jpg,"Samsung C27T55 27"" 16:9 FreeSync Curved Monitor"
+190," LG 27GN950-B 27"" 4K UHD Nano IPS Ultragear 144Hz G-SYNC Gaming Monitor",https://www.startech.com.bd/lg-27gn950-b-uhd-nano-ips-144hz-gaming-monitor,"
 TBA
-"
-189,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/27gn950-b/27gn950-b-01-228x228.jpg,"LG 27GN950-B 27"" 4K UHD Nano IPS Ultragear 144Hz G-SYNC Gaming Monitor"
+191, Walton WD215A01 21.5” FHD LED Monitor,https://www.startech.com.bd/walton-wd215a01-monitor,"
 TBA
-"
-190,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/walton/wd215a01/wd215a01-1-228x228.jpg,Walton WD215A01 21.5” FHD LED Monitor
+192, HP X27i 27'' 2K IPS LCD Gaming Monitor,https://www.startech.com.bd/hp-x27i-2k-ips-gaming-monitor,"
 TBA
-"
-191,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/x27i/x27i-1-228x228.jpg,HP X27i 27'' 2K IPS LCD Gaming Monitor
+193," MSI Optix G32C4 31.5"" Curved Full HD 165Hz Monitor",https://www.startech.com.bd/msi-optix-g32c4-monitor,"
 TBA
-"
-192,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/g32c4/g32c4-228x228.jpg,"MSI Optix G32C4 31.5"" Curved Full HD 165Hz Monitor"
+194," Asus TUF VG279QL1A 27"" HDR 165Hz Gaming Monitor",https://www.startech.com.bd/asus-tuf-vg279ql1a-gaming-monitor,"
 TBA
-"
-193,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/tuf-vg279ql1a/tuf-vg279ql1a-01-228x228.jpg,"Asus TUF VG279QL1A 27"" HDR 165Hz Gaming Monitor"
+195," HP OMEN 27i 27"" 165Hz 2K QHD IPS Gaming Monitor",https://www.startech.com.bd/hp-omen-27i-gaming-monitor,"
 TBA
-"
-194,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/omen-27i/omen-27i-228x228.jpg,"HP OMEN 27i 27"" 165Hz 2K QHD IPS Gaming Monitor"
+196," Asus VP248H 24"" Full HD Adaptive Sync Gaming Monitor",https://www.startech.com.bd/asus-vp248h-gaming-monitor,"
 TBA
-"
-195,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vp248h/vp248h-1-228x228.jpg,"Asus VP248H 24"" Full HD Adaptive Sync Gaming Monitor"
+197," Viewsonic VA2405-H 24"" 1080p Full HD VA Monitor",https://www.startech.com.bd/viewsonic-va2405-h-monitor,"
 TBA
-"
-196,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/va2405-h/va2405-h-1-228x228.jpg,"Viewsonic VA2405-H 24"" 1080p Full HD VA Monitor"
+198, MSI Optix MAG24C 24 inch Curved Gaming Monitor,https://www.startech.com.bd/msi-optix-mag24c-24-inch-monitor,"
 TBA
-"
-197,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/optix-mag24c/msi-optix-mag24c-gaming-monitor-228x228.jpg,MSI Optix MAG24C 24 inch Curved Gaming Monitor
+199," ViewSonic VX2276-SH 22"" FHD IPS Monitor",https://www.startech.com.bd/viewsonic-vx2276-sh-monitor,"
 TBA
-"
-198,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/vx2276-sh/vx2276-sh-01-228x228.jpg,"ViewSonic VX2276-SH 22"" FHD IPS Monitor"
+200," Acer V226HQL 21.5"" Full HD Monitor",https://www.startech.com.bd/acer-v226hql-21-5-inch-fhd-monitor,"
 TBA
-"
-199,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/acer/v226hql/v226hql-228x228.jpg,"Acer V226HQL 21.5"" Full HD Monitor"
+201," HP V214a 20.7"" FHD LED Monitor",https://www.startech.com.bd/hp-v214a-monitor,"
 TBA
-"
-200,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/v214a/v214a-228x228.jpg,"HP V214a 20.7"" FHD LED Monitor"
+202," LG 27MP500-B 27"" FreeSync Full HD IPS Monitor",https://www.startech.com.bd/lg-27mp500-b-27-inch-monitor,"
 TBA
-"
-201,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/27mp500-b/27mp500-b-228x228.jpg,"LG 27MP500-B 27"" FreeSync Full HD IPS Monitor"
+203, LG 27GP950-B 27” UltraGear 144Hz G-SYNC UHD IPS Gaming Monitor,https://www.startech.com.bd/lg-27gp950-b-27-inch-ultragear-gaming-monitor,"
 TBA
-"
-202,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/27gp950-b/27gp950-b-1-228x228.jpg,LG 27GP950-B 27” UltraGear 144Hz G-SYNC UHD IPS Gaming Monitor
+204," Dell P2721Q 27"" 4K WLED USB-C IPS Monitor",https://www.startech.com.bd/dell-p2721q-27-inch-monitor,"
 TBA
-"
-203,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/dell/p2721q/p2721q-001-228x228.jpg,"Dell P2721Q 27"" 4K WLED USB-C IPS Monitor"
+205, Razer Raptor 27 144Hz WQHD 27-inch Gaming Monitor​,https://www.startech.com.bd/razer-raptor-27-inch-gaming-monitor,"
 TBA
-"
-204,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/razer/raptor/raptor-01-228x228.jpg,Razer Raptor 27 144Hz WQHD 27-inch Gaming Monitor​
+206, LG 32UL950-W UltraFine 32 Inch 4K UHD LED Freesync IPS Gaming Monitor,https://www.startech.com.bd/lg-32ul950-w-32-inch-4k-uhd-gaming-monitor,"
 TBA
-"
-205,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/32ul950-w/32ul950-w-01-228x228.jpg,LG 32UL950-W UltraFine 32 Inch 4K UHD LED Freesync IPS Gaming Monitor
+207, Corsair XENEON 32QHD165 32 inch QHD 165Hz Gaming Monitor,https://www.startech.com.bd/corsair-xeneon-32qhd165-gaming-monitor,"
 TBA
-"
-206,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/Corsair/xeneon e700/corsair-xeneon-32qhd165-gaming-monitor-03-228x228.jpg,Corsair XENEON 32QHD165 32 inch QHD 165Hz Gaming Monitor
+208," BenQ GW2780T 27"" Eye-care FHD IPS Monitor",https://www.startech.com.bd/benq-gw2780t-fhd-monitor,"
 TBA
-"
-207,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/benq/gw2780t/gw2780t-01-228x228.jpg,"BenQ GW2780T 27"" Eye-care FHD IPS Monitor"
+209, LG 27EP950-B 27 Inch UltraFine OLED Pro 4K Monitor,https://www.startech.com.bd/lg-27ep950-b-27-inch-4k-monitor,"
 TBA
-"
-208,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/lg-27ep950-b/lg-27ep950-b-27-inch-4K-monitor-01-228x228.jpg,LG 27EP950-B 27 Inch UltraFine OLED Pro 4K Monitor
+210, LG 32EP950-B 32 Inch UltraFine OLED Pro 4K Monitor,https://www.startech.com.bd/lg-32ep950-b-32-inch-4k-monitor,"
 TBA
-"
-209,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/32ep950-b/lg-32ep950-b-32-inch-4K-monitor-01-228x228.jpg,LG 32EP950-B 32 Inch UltraFine OLED Pro 4K Monitor
+211," BenQ MOBIUZ EX3210R 32"" 165Hz FreeSync 2K QHD Curved Gaming Monitor",https://www.startech.com.bd/benq-mobiuz-ex3210r-curved-gaming-monitor,"
 TBA
-"
-210,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/benq/ex2710r/ex2710r-01-228x228.jpg,"BenQ MOBIUZ EX3210R 32"" 165Hz FreeSync 2K QHD Curved Gaming Monitor"
+212, MSI Modern MD241P 23.8 Inch FHD IPS Type-C Monitor,https://www.startech.com.bd/msi-modern-md241p-fhd-monitor,"
 TBA
-"
-211,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/modern-md241p/modern-md241p-01-228x228.jpg,MSI Modern MD241P 23.8 Inch FHD IPS Type-C Monitor
+213, MSI Modern MD241PW 23.8 Inch FHD IPS Type-C Monitor,https://www.startech.com.bd/msi-modern-md241pw-fhd-monitor,"
 TBA
-"
-212,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/modern-md241pw/md241pw-01-228x228.jpg,MSI Modern MD241PW 23.8 Inch FHD IPS Type-C Monitor
+214," MSI Optix G241V E2 24"" FHD FreeSync IPS Esports Gaming Monitor",https://www.startech.com.bd/msi-optix-g241v-e2-24-inch-fhd-gaming-monitor,"
 TBA
-"
-213,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/optix-g241v-e2/optix-g241v-e2-01-228x228.jpg,"MSI Optix G241V E2 24"" FHD FreeSync IPS Esports Gaming Monitor"
+215, LG 27QP88D-B2 Ergo Dual 27'' QHD USB Type-C Monitor,https://www.startech.com.bd/lg-27qp88d-ergo-dual-27-inch-type-c-monitor,"
 TBA
-"
-214,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/27qp88d/27qp88d-01-228x228.jpg,LG 27QP88D-B2 Ergo Dual 27'' QHD USB Type-C Monitor
+216, LG 49WL95C-WE 49 Inch 32:9 UltraWide Dual QHD IPS Curved LED HDR 10 Monitor,https://www.startech.com.bd/lg-49wl95c-we-49-inch-ultrawide-dual-uhd-ips-curved-monitor,"
 TBA
-"
-215,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/49wl95c-we/49wl95c-we-01-228x228.jpg,LG 49WL95C-WE 49 Inch 32:9 UltraWide Dual QHD IPS Curved LED HDR 10 Monitor
+217," LG 32QN650-B 32"" QHD IPS HDR10 Monitor",https://www.startech.com.bd/lg-32qn650-b-32-inch-qhd-ips-monitor,"
 TBA
-"
-216,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/32qn650-b/32qn650-b-01-228x228.jpg,"LG 32QN650-B 32"" QHD IPS HDR10 Monitor"
+218," LG 34WP85C-B 34"" FreeSync Curved UltraWide QHD Monitor",https://www.startech.com.bd/lg-34wp85c-b-34-inch-curved-ultrawide-qhd-monitor,"
 TBA
-"
-217,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/34wp85c-b/34wp85c-b-01-228x228.jpg,"LG 34WP85C-B 34"" FreeSync Curved UltraWide QHD Monitor"
+219," MSI Optix G27C7 27"" 165hz Curved Gaming Monitor",https://www.startech.com.bd/msi-optix-g27c7-curved-gaming-monitor,"
 TBA
-"
-218,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/g27c7/g27c7-01-228x228.jpg,"MSI Optix G27C7 27"" 165hz Curved Gaming Monitor"
+220," MSI Optix G24C6 23.8"" 144hz Curved Freesync Gaming Monitor",https://www.startech.com.bd/msi-optix-g24c6-curved-gaming-monitor,"
 TBA
-"
-219,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/g24c6/g24c6-01-228x228.jpg,"MSI Optix G24C6 23.8"" 144hz Curved Freesync Gaming Monitor"
+221," Apple Studio Display 27"" 5K Monitor",https://www.startech.com.bd/apple-studio-display-27-inch-5k-monitor,"
 TBA
-"
-220,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/apple/studio-display-27-inch-5k/apple-studio-display-01-228x228.jpg,"Apple Studio Display 27"" 5K Monitor"
+222," MSI Optix G273 27"" 165 Hz FHD IPS Curved Gaming Monitor",https://www.startech.com.bd/msi-optix-g273-curved-gaming-monitor,"
 TBA
-"
-221,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/optix-g273/msi-optix-g273-01-228x228.jpg,"MSI Optix G273 27"" 165 Hz FHD IPS Curved Gaming Monitor"
+223, Lenovo D22-20 21.5-inch LED Backlit LCD Monitor,https://www.startech.com.bd/lenovo-d22-20-led-backlit-lcd-monitor,"
 TBA
-"
-222,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/d22-20/d22-20-01-228x228.jpg,Lenovo D22-20 21.5-inch LED Backlit LCD Monitor
+224," MSI Optix G27C4 27"" Curved 165Hz VA LED Monitor",https://www.startech.com.bd/msi-optix-g27c4-27-monitor,"
 TBA
-"
-223,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/g27c4/g27c4-228x228.jpg,"MSI Optix G27C4 27"" Curved 165Hz VA LED Monitor"
+225," Dell E1715S 17"" Square Screen Monitor",https://www.startech.com.bd/dell-e1715s-17-inch--square-screen-monitor,"
 TBA
-"
-224,"
+",https://www.startech.com.bd/image/cache/data/Dell E1715S 17 S-228x228.jpg,"Dell E1715S 17"" Square Screen Monitor"
+226, Samsung S19F350HNW 18.5 Inch LED Monitor (VGA),https://www.startech.com.bd/samsung-s19f350-18.5-led-monitor,"
 TBA
-"
-225,"
+",https://www.startech.com.bd/image/cache/catalog/Component/Monitor/viewsonic/Samsung-S19F350-228x228.jpg,Samsung S19F350HNW 18.5 Inch LED Monitor (VGA)
+227, Samsung LU28E590DS 28 Inch 4K Ultra HD LED Monitor,https://www.startech.com.bd/samsung-lu28e590ds-28-inch-4k-ultra,"
 TBA
-"
-226,"
+",https://www.startech.com.bd/image/cache/catalog/Monitor/LU28E590DS-1-228x228.jpg,Samsung LU28E590DS 28 Inch 4K Ultra HD LED Monitor
+228," PHILIPS 19.5"" Inch 206V6QSB6/94 AH-IPS LED Monitor",https://www.startech.com.bd/philips-20-inch-ah-ips-led-206v,"
 TBA
-"
-227,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/philips/ah-ips-led-206v/ah-ips-led-206v-01-228x228.jpg,"PHILIPS 19.5"" Inch 206V6QSB6/94 AH-IPS LED Monitor"
+229, SAMSUNG S24F350FHW 24'' LED Monitor with AH IPS,https://www.startech.com.bd/samsung-s24f350fhw,"
 TBA
-"
-228,"
+",https://www.startech.com.bd/image/cache/catalog/Monitor/Samsung/SAMSUNG S24F350FHW-228x228.jpg,SAMSUNG S24F350FHW 24'' LED Monitor with AH IPS
+230," ASUS VX24AH Ultra-low Blue Light-23.8"" 2K WQHD (2560x1440) IPS Frame less Monitor",https://www.startech.com.bd/asus-vx24ah,"
 TBA
-"
-229,"
+",https://www.startech.com.bd/image/cache/catalog/Monitor/Asus2/ASUS VX24AH-228x228.jpg,"ASUS VX24AH Ultra-low Blue Light-23.8"" 2K WQHD (2560x1440) IPS Frame less Monitor"
+231," ASUS VP278H 27"" FHD 1ms Low Blue Light Flicker Free Gaming Monitor",https://www.startech.com.bd/asus-vp278h,"
 TBA
-"
-230,"
+",https://www.startech.com.bd/image/cache/catalog/Monitor/Asus3/ASUS VP278H-4-228x228.png,"ASUS VP278H 27"" FHD 1ms Low Blue Light Flicker Free Gaming Monitor"
+232, Dell 19 Inch P1917S LED Antiglare Square Monitor,https://www.startech.com.bd/dell-19-inch-p1917s,"
 TBA
-"
-231,"
+",https://www.startech.com.bd/image/cache/catalog/Monitor/Dell/Dell 19 Inch p1917s-1-228x228.jpg,Dell 19 Inch P1917S LED Antiglare Square Monitor
+233, HP V194 18.5 inch LED Backlight Monitor,https://www.startech.com.bd/hp-v194-monitor,"
 TBA
-"
-232,"
+",https://www.startech.com.bd/image/cache/catalog/Monitor/HP Monitor/HP V194-4-228x228.jpg,HP V194 18.5 inch LED Backlight Monitor
+234," ESONIC ES1701 17"" Square LED Monitor",https://www.startech.com.bd/esonic-es1701,"
 TBA
-"
-233,"
+",https://www.startech.com.bd/image/cache/catalog/Monitor/Non-Brand/Esonic-228x228.jpg,"ESONIC ES1701 17"" Square LED Monitor"
+235," ASUS VS207DF 19.5"" 1366x768 D-Sub Monitor",https://www.startech.com.bd/asus-vs207df,"
 TBA
-"
-234,"
+",https://www.startech.com.bd/image/cache/catalog/Monitor/Asus3/ASUS VS207DF/ASUS VS207DF-1-228x228.png,"ASUS VS207DF 19.5"" 1366x768 D-Sub Monitor"
+236," LG 34UC79G 34"" 21:9 IPS Curved UltraWide FreeSync Gaming Monitor                    ",https://www.startech.com.bd/lg-34uc79g,"
 TBA
-"
-235,"
+",https://www.startech.com.bd/image/cache/catalog/Component/Monitor/Lg monitor/lg-228x228.jpg,"LG 34UC79G 34"" 21:9 IPS Curved UltraWide FreeSync Gaming Monitor                    "
+237, ASUS VZ27AQ 27” WQHD (2560 x 1440) IPS DP HDMI VGA Eye Care Monitor,https://www.startech.com.bd/asus-vz27aq,"
 TBA
-"
-236,"
+",https://www.startech.com.bd/image/cache/catalog/Monitor/ASUS/ASUS VZ27AQ/ASUS VZ27AQ-1-228x228.jpg,ASUS VZ27AQ 27” WQHD (2560 x 1440) IPS DP HDMI VGA Eye Care Monitor
+238, HP EliteDisplay E243i 24-Inch Full HD Monitor,https://www.startech.com.bd/hp-elitedisplay-e243i-monitor,"
 TBA
-"
-237,"
+",https://www.startech.com.bd/image/cache/catalog/Component/Monitor/hp-monitor/243i-228x228.png,HP EliteDisplay E243i 24-Inch Full HD Monitor
+239, Samsung 21.5 Inch S22F350F LED FULL HD Monitor,https://www.startech.com.bd/samsung-21.5-inch-s22f350fhw-monitor,"
 TBA
-"
-238,"
+",https://www.startech.com.bd/image/cache/catalog/Component/Monitor/sam/LS27F350FHW-1-228x228.jpg,Samsung 21.5 Inch S22F350F LED FULL HD Monitor
+240," Asus VG248QE 24"" FHD 144hz Gaming Monitor",https://www.startech.com.bd/asus-vg248qe-gaming-monitor,"
 TBA
-"
-239,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vg248qe/vg248qe-228x228.jpg,"Asus VG248QE 24"" FHD 144hz Gaming Monitor"
+241," HP 27f IPS LED backlight 27"" Monitor",https://www.startech.com.bd/hp-27f-monitor,"
 TBA
-"
-240,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/27f/hp-27f-1-228x228.jpg,"HP 27f IPS LED backlight 27"" Monitor"
+242," LG 34UC89G-B 34"" 21:9 UltraWide Full HD IPS Curved LED Gaming Monitor              ",https://www.startech.com.bd/lg-34uc89g-bb-gaming-monitor,"
 TBA
-"
-241,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/34uc89g-b/uc89g-b-5-228x228.jpg,"LG 34UC89G-B 34"" 21:9 UltraWide Full HD IPS Curved LED Gaming Monitor              "
+243," Samsung 49"" LC49HG90DMUXEN Curved QLED 144 Hz Gaming Monitor",https://www.startech.com.bd/samsung-49-inch-monitor,"
 TBA
-"
-242,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/samsung/samsung-lc49hg90dmuxen/samsung-lc49hg90dmuxen-1-228x228.jpg,"Samsung 49"" LC49HG90DMUXEN Curved QLED 144 Hz Gaming Monitor"
+244," MSI OPTIX G27C2 27"" Full HD 144Hz  Curved Gaming Monitor (HDMI, DP, DVI)",https://www.startech.com.bd/msi-optix-g27c2-gaming-monitor,"
 TBA
-"
-243,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/optix-g27c2/msi-optix-g27c2-1-228x228.jpg,"MSI OPTIX G27C2 27"" Full HD 144Hz  Curved Gaming Monitor (HDMI, DP, DVI)"
+245, HP V214b 20.7-inch Monitor,https://www.startech.com.bd/hp-v214b-monitor,"
 TBA
-"
-244,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/V214b/V214b-228x228.png,HP V214b 20.7-inch Monitor
+246, PHILIPS 21.5” 226E9QDSB IPS GAMING LED AMD Free Sync MONITOR,https://www.startech.com.bd/philips-226e9qdsb-69-monitor,"
 TBA
-"
-245,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/philips/226e9qdsb-69/226e9qdsb-228x228.jpg,PHILIPS 21.5” 226E9QDSB IPS GAMING LED AMD Free Sync MONITOR
+247, Philips 328C7QJSG/69 full hd 144Hz curved Lcd Monitor,https://www.startech.com.bd/philips-328C7qsg-69-monitor,"
 TBA
-"
-246,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/philips/328c7qjsg/328c7qjsg-228x228.png,Philips 328C7QJSG/69 full hd 144Hz curved Lcd Monitor
+248," ASUS ZenScreen MB16AC 15.6"" Full HD 1920x1080 IPS USB Type-C Portable Monitor",https://www.startech.com.bd/asus-zenscreen-mb16ac-portable-monitor,"
 TBA
-"
-247,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/zenscreen-mb16ac/zenscreen-mb16ac-1-228x228.jpg,"ASUS ZenScreen MB16AC 15.6"" Full HD 1920x1080 IPS USB Type-C Portable Monitor"
+249, Dell E1916H 18.5 Inch LED Monitor (VGA+DP),https://www.startech.com.bd/dell-e1916h-led-monitor,"
 TBA
-"
-248,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/dell/e1916h/e1916h-1-228x228.jpg,Dell E1916H 18.5 Inch LED Monitor (VGA+DP)
+250, Asus ROG Strix XG248Q 24 Inch FHD Gaming Monitor,https://www.startech.com.bd/asus-rog-strix-xg248q-gaming-monitor,"
 TBA
-"
-249,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/rog-strix-xg248q/rog-strix-xg248q-1-228x228.jpg,Asus ROG Strix XG248Q 24 Inch FHD Gaming Monitor
+251, HP EliteDisplay E230t 23-inch Touch Monitor,https://www.startech.com.bd/hp-elitedisplay-e230t-monitor,"
 TBA
-"
-250,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/e230t/e230t-228x228.jpg,HP EliteDisplay E230t 23-inch Touch Monitor
+252," Asus BE229QLB 21.5"" Full HD IPS Business Monitor",https://www.startech.com.bd/asus-be229qlb-business-monitor,"
 TBA
-"
-251,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/be229qlb/be229qlb-01-228x228.jpg,"Asus BE229QLB 21.5"" Full HD IPS Business Monitor"
+253, Asus ROG Strix XG49VQ 49 Inch 4K Gaming Monitor,https://www.startech.com.bd/asus-rog-strix-xg49vq-monitor,"
 TBA
-"
-252,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/xg49vq/xg49vq-main-228x228.jpg,Asus ROG Strix XG49VQ 49 Inch 4K Gaming Monitor
+254, LG 24GL600F-B 24 Inch 144Hz Gaming Monitor,https://www.startech.com.bd/lg-24gl600f-b-ultragear-gaming-monitor,"
 TBA
-"
-253,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/24gl600f-b/24gl600f-b-1-228x228.jpg,LG 24GL600F-B 24 Inch 144Hz Gaming Monitor
+255," LG 27MK600M-B 27"" IPS Full HD Monitor with Radeon FreeSync Technology",https://www.startech.com.bd/lg-27mk600m-b-ips-full-hd-monitor,"
 TBA
-"
-254,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/lg24mk600m/lg24mk600m-1-228x228.jpg,"LG 27MK600M-B 27"" IPS Full HD Monitor with Radeon FreeSync Technology"
+256, HP EliteDisplay E243 23.8-inch IPS Full HD Monitor,https://www.startech.com.bd/hp-elite-display-e243-monitor,"
 TBA
-"
-255,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/elite-display/e243/e243-1-228x228.jpg,HP EliteDisplay E243 23.8-inch IPS Full HD Monitor
+257, BenQ SW240 PhotoVue 24 inch WUXGA Color Accuracy IPS Monitor for Photography,https://www.startech.com.bd/benq-sw240-photovue-monitor,"
 TBA
-"
-256,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/benq/sw240-photovue/sw240-photovue-2-228x228.jpg,BenQ SW240 PhotoVue 24 inch WUXGA Color Accuracy IPS Monitor for Photography
+258, AOC 22V2Q 21.5 inch Full HD Borderless FlickerFree IPS Monitor,https://www.startech.com.bd/aoc-22v2q-fhd-monitor,"
 TBA
-"
-257,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/aoc/22v2q/22v2q-1-228x228.jpg,AOC 22V2Q 21.5 inch Full HD Borderless FlickerFree IPS Monitor
+259, MSI Optix G241VC 24-Inch Full HD Curved Gaming Monitor,https://www.startech.com.bd/msi-optix-g241vc-full-hd-gaming-monitor,"
 TBA
-"
-258,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/g241vc/g241vc-1-228x228.jpg,MSI Optix G241VC 24-Inch Full HD Curved Gaming Monitor
+260, ASUS ProArt PA24AC 24 inch HDR Eye Care Professional Monitor,https://www.startech.com.bd/asus-pa24ac-monitor,"
 TBA
-"
-259,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/pa24ac/pa24ac-1-228x228.jpg,ASUS ProArt PA24AC 24 inch HDR Eye Care Professional Monitor
+261, ASUS BE249QLBH 24 Inch FHD IPS Business Monitor,https://www.startech.com.bd/asus-be249qlbh-24-business-monitor,"
 TBA
-"
-260,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/be249qlbh/be249qlbh-228x228.jpg,ASUS BE249QLBH 24 Inch FHD IPS Business Monitor
+262, AOC I2080SW 19.5-inch IPS LED Backlit Computer Monitor,https://www.startech.com.bd/aoc-i2080sw-monitor,"
 TBA
-"
-261,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/aoc/i2080sw/i2080sw-1-228x228.jpg,AOC I2080SW 19.5-inch IPS LED Backlit Computer Monitor
+263," HP P204 19.5 Inch HD+ LED Monitor (HDMI, VGA, DP)",https://www.startech.com.bd/hp-p204-hd-led-monitor,"
 TBA
-"
-262,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/p204/p204-led-monitor-1-228x228.jpg,"HP P204 19.5 Inch HD+ LED Monitor (HDMI, VGA, DP)"
+264," Acer ET221Qbi 21.5"" W-LED HD Monitor",https://www.startech.com.bd/acer-et221qbi-hd-monitor,"
 TBA
-"
-263,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/acer/et221qbi/et221qbi-1-228x228.jpg,"Acer ET221Qbi 21.5"" W-LED HD Monitor"
+265, Asus VA27EHE 27 Inch Full HD Eye Care Monitor,https://www.startech.com.bd/asus-va27ehe-led-monitor,"
 TBA
-"
-264,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/va27ehe/va27ehe-01-228x228.jpg,Asus VA27EHE 27 Inch Full HD Eye Care Monitor
+266, BenQ SW270C 27 inch 2K QHD Photographer Monitor,https://www.startech.com.bd/benq-sw270c-photographer-monitor,"
 TBA
-"
-265,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/benq/sw270c/sw270c-1-228x228.jpg,BenQ SW270C 27 inch 2K QHD Photographer Monitor
+267," Philips 203V5LSB2 19.5"" LCD VGA Monitor",https://www.startech.com.bd/philips-203v5lsb2-monitor,"
 TBA
-"
-266,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/philips/203v5lsb2/203v5lsb2-1-228x228.jpg,"Philips 203V5LSB2 19.5"" LCD VGA Monitor"
+268, Asus VA32UQ 31.5” HDR 4K FreeSync Eye Care Monitor,https://www.startech.com.bd/asus-va32uq-monitor,"
 TBA
-"
-267,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/va32uq/va32uq-228x228.jpg,Asus VA32UQ 31.5” HDR 4K FreeSync Eye Care Monitor
+269, Acer AOPEN 20CH1Q 19.5 Inch LED Monitor,https://www.startech.com.bd/acer-aopen-20ch1q-monitor,"
 TBA
-"
-268,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/acer/aopen/20ch1q/20ch1q-1-228x228.jpg,Acer AOPEN 20CH1Q 19.5 Inch LED Monitor
+270, ASUS TUF VG249Q 24 Inch 144Hz Free-Sync Gaming Monitor,https://www.startech.com.bd/asus-tuf-vg249q-gaming-monitor,"
 TBA
-"
-269,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vg249q/vg249q-1-228x228.jpg,ASUS TUF VG249Q 24 Inch 144Hz Free-Sync Gaming Monitor
+271, HP EliteDisplay E324Q 31.5'' 2K Monitor,https://www.startech.com.bd/hp-elitedisplay-e324q-monitor,"
 TBA
-"
-270,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/e324q/e324q-1-228x228.jpg,HP EliteDisplay E324Q 31.5'' 2K Monitor
+272, HP EliteDisplay E243m 23.8 Inch IPS Full HD Monitor,https://www.startech.com.bd/hp-elitedisplay-e243m-monitor,"
 TBA
-"
-271,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/elite-display/e243m/e243m-1-228x228.jpg,HP EliteDisplay E243m 23.8 Inch IPS Full HD Monitor
+273, MSI Optix MAG271C 27 Inch Full HD LED Curved Gaming Monitor With 144Hz Refresh Rate,https://www.startech.com.bd/msi-mag271c-27-gaming-monitor,"
 TBA
-"
-272,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/msi-mag271cr-27-144hz-gaming-monitor/msi-mag271cr-27-144hz-gaming-monitor-228x228.jpg,MSI Optix MAG271C 27 Inch Full HD LED Curved Gaming Monitor With 144Hz Refresh Rate
+274," MSI Optix MAG322CQRV 32"" 144Hz QHD(2K) LED Curved Monitor",https://www.startech.com.bd/msi-optix-mag322cqrv-curved-monitor,"
 TBA
-"
-273,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/mag322cqrv/mag322cqrv-228x228.jpg,"MSI Optix MAG322CQRV 32"" 144Hz QHD(2K) LED Curved Monitor"
+275, Samsung LS22R350 22'' FHD 75Hz Gaming LED Monitor,https://www.startech.com.bd/samsung-ls22r350-22-inch-gaming-led-monitor,"
 TBA
-"
-274,"
+",https://www.startech.com.bd/image/cache/catalog/television/samsung/ls22r350/ls22r350-1-228x228.jpg,Samsung LS22R350 22'' FHD 75Hz Gaming LED Monitor
+276, ACER K202HQL 19.5 Inch HD LED Monitor,https://www.startech.com.bd/acer-k202hql-led-monitor,"
 TBA
-"
-275,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/acer/k202hql/k202hql-1-228x228.jpg,ACER K202HQL 19.5 Inch HD LED Monitor
+277, Dell SE2419HR 24 Inch Full HD LED Monitor,https://www.startech.com.bd/dell-se2419hr-monitor,"
 TBA
-"
-276,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/dell/se2419hr/se2419hr-1-228x228.jpg,Dell SE2419HR 24 Inch Full HD LED Monitor
+278, Asus VZ249HEG1R 23.8 inch FHD IPS Gaming Monitor,https://www.startech.com.bd/asus-vz249heg1r-monitor,"
 TBA
-"
-277,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vz249heg1r/vz249heg1r-228x228.jpg,Asus VZ249HEG1R 23.8 inch FHD IPS Gaming Monitor
+279, ASUS TUF VG27WQ 27 Inch WQHD 165Hz Curved Gaming Monitor,https://www.startech.com.bd/asus-tuf-vg27wq-27-monitor,"
 TBA
-"
-278,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/tuf-vg27wq/tuf-vg27wq-228x228.jpg,ASUS TUF VG27WQ 27 Inch WQHD 165Hz Curved Gaming Monitor
+280, ASUS BE24DQLB 24 Inch Video Conferencing Full HD IPS Monitor,https://www.startech.com.bd/asus-be24dqlb-24-inch-monitor,"
 TBA
-"
-279,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/be24dqlb/be24dqlb-228x228.jpg,ASUS BE24DQLB 24 Inch Video Conferencing Full HD IPS Monitor
+281, BenQ PD3220U 32” 4K IPS Thunderbolt 3 Monitor with Display P3,https://www.startech.com.bd/benq-pd3220u-thunderbolt-3-monitor,"
 TBA
-"
-280,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/benq/pd3220u/pd3220u-1-228x228.jpeg,BenQ PD3220U 32” 4K IPS Thunderbolt 3 Monitor with Display P3
+282, BENQ EW2780 27-INCH HDR FREESYNC IPS MONITOR,https://www.startech.com.bd/benq-ew2780-ips-monitor,"
 TBA
-"
-281,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/benq/ew2780/ew2780-1-228x228.jpeg,BENQ EW2780 27-INCH HDR FREESYNC IPS MONITOR
+283," BenQ EW2480 23.8"" Eye-Care IPS Monitor",https://www.startech.com.bd/benq-ew2480-eye-care-ips-monitor,"
 TBA
-"
-282,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/benq/ew2480/ew2480-1-228x228.jpg,"BenQ EW2480 23.8"" Eye-Care IPS Monitor"
+284," Walton WD238V02 23.8"" LED Backlight Display Monitor",https://www.startech.com.bd/walton-wd238v02-backlight-monitor,"
 TBA
-"
-283,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/walton/wd238v02/wd238v02-1-228x228.jpg,"Walton WD238V02 23.8"" LED Backlight Display Monitor"
+285, Walton WD238A01 23.8” Full HD LED Display Monitor,https://www.startech.com.bd/walton-wd238a01-monitor,"
 TBA
-"
-284,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/walton/wd238a01/wd238a01-1-228x228.jpg,Walton WD238A01 23.8” Full HD LED Display Monitor
+286, Walton WD185T01 18.5” HD LED Monitor,https://www.startech.com.bd/walton-wd185t01-monitor,"
 TBA
-"
-285,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/walton/wd185t01/wd185t01-2-228x228.jpg,Walton WD185T01 18.5” HD LED Monitor
+287, MSI Pro MP221 21.5 inch FHD Monitor (HDMI),https://www.startech.com.bd/msi-pro-mp221-monitor,"
 TBA
-"
-286,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/pro-mp221/pro-mp221-228x228.jpg,MSI Pro MP221 21.5 inch FHD Monitor (HDMI)
+288," Viewsonic XG2401 24"" 144Hz Full HD Gaming Monitor",https://www.startech.com.bd/viewsonic-xg2401-fhd-gaming-monitor,"
 TBA
-"
-287,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/xg2401/xg2401-1-228x228.jpg,"Viewsonic XG2401 24"" 144Hz Full HD Gaming Monitor"
+289, ASUS ZenScreen MB16ACE 15.6” USB Type-C IPS Monitor,https://www.startech.com.bd/asus-zenscreen-mb16ace-ips-monitor,"
 TBA
-"
-288,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/mb16ace-zenscreen/mb16ace-zenscreen-1-228x228.jpg,ASUS ZenScreen MB16ACE 15.6” USB Type-C IPS Monitor
+290," ASUS ZenScreen MB14AC 14"" USB Type-C IPS Full HD Monitor",https://www.startech.com.bd/asus-zenscreen-mb14ac-monitor,"
 TBA
-"
-289,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/zenscreen-mb14ac/zenscreen-mb14ac-1-228x228.jpg,"ASUS ZenScreen MB14AC 14"" USB Type-C IPS Full HD Monitor"
+291," ASUS BE27AQLB 27"" WQHD IPS Business Monitor",https://www.startech.com.bd/asus-be27aqlb-wqhd-ips-monitor,"
 TBA
-"
-290,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/be27aqlb/be27aqlb-1-228x228.jpg,"ASUS BE27AQLB 27"" WQHD IPS Business Monitor"
+292," ASUS Designo MX27UCS 27"" 4K UHD IPS USB Type-C Eye Care Monitor",https://www.startech.com.bd/asus-designo-mx27ucs-monitor,"
 TBA
-"
-291,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/designo-mx27ucs/designo-mx27ucs-1-228x228.jpg,"ASUS Designo MX27UCS 27"" 4K UHD IPS USB Type-C Eye Care Monitor"
+293, MSI G241V 23.8'' 75Hz FHD IPS Gaming Monitor,https://www.startech.com.bd/msi-g241v-gaming-monitor,"
 TBA
-"
-292,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/g241v/g241v-228x228.jpg,MSI G241V 23.8'' 75Hz FHD IPS Gaming Monitor
+294," ViewSonic VA2732-H 27"" Full HD IPS Monitor",https://www.startech.com.bd/viewsonic-va2732-h-27-monitor,"
 TBA
-"
-293,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/va2732-h/va2732-h-228x228.jpg,"ViewSonic VA2732-H 27"" Full HD IPS Monitor"
+295," ViewSonic VP2458 24"" Frameless 1080p sRGB IPS Monitor",https://www.startech.com.bd/viewsonic-vp2458-24-monitor,"
 TBA
-"
-294,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/vp2458/vp2458-228x228.jpg,"ViewSonic VP2458 24"" Frameless 1080p sRGB IPS Monitor"
+296," HP V27i 27"" Full HD IPS Monitor",https://www.startech.com.bd/hp-v27i-fhd-ips-monitor,"
 TBA
-"
-295,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/v27i/v27i-1-228x228.jpg,"HP V27i 27"" Full HD IPS Monitor"
+297, HP V24i 24'' Full HD IPS Monitor,https://www.startech.com.bd/hp-v24i-fhd-ips-monitor,"
 TBA
-"
-296,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/v24i/v24i-001-228x228.jpg,HP V24i 24'' Full HD IPS Monitor
+298, Samsung F27T350FHW 27'' Full HD LED IPS Monitor,https://www.startech.com.bd/samsung-f27t350fhw-27-inch-fhd-monitor,"
 TBA
-"
-297,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/samsung/f27t350fhw/f27t350fhw-1-228x228.jpg,Samsung F27T350FHW 27'' Full HD LED IPS Monitor
+299," ASUS ProArt PA32UC 32"" 4K UHD HDR Professional IPS LCD Monitor",https://www.startech.com.bd/asus-proart-pa32uc-32-monitor,"
 TBA
-"
-298,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/proart-pa32uc/proart-pa32uc-228x228.jpg,"ASUS ProArt PA32UC 32"" 4K UHD HDR Professional IPS LCD Monitor"
+300, Xiaomi Mi 1C 23.8 Inch Full HD IPS Monitor,https://www.startech.com.bd/xiaomi-mi-1c-fhd-ips-monitor,"
 TBA
-"
-299,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/xiaomi/mi-1c/mi-1c-1-228x228.jpeg,Xiaomi Mi 1C 23.8 Inch Full HD IPS Monitor
+301, Asus VA24DQLB 23.8 Inch 75Hz Full HD Eye Care IPS Monitor,https://www.startech.com.bd/asus-va24dqlb-full-hd-monitor,"
 TBA
-"
-300,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/va24dqlb/va24dqlb-1-228x228.jpg,Asus VA24DQLB 23.8 Inch 75Hz Full HD Eye Care IPS Monitor
+302," Acer V196HQL 18.5"" HD LED Monitor",https://www.startech.com.bd/acer-v196hql-led-monitor,"
 TBA
-"
-301,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/acer/v196hql/acer-v196hql-monitor-228x228.JPG,"Acer V196HQL 18.5"" HD LED Monitor"
+303, HP X24ih 24'' 144Hz FreeSync IPS Full HD Gaming Monitor,https://www.startech.com.bd/hp-x24ih-ips-fhd-gaming-monitor,"
 TBA
-"
-302,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/x24ih/x24ih-1-228x228.jpg,HP X24ih 24'' 144Hz FreeSync IPS Full HD Gaming Monitor
+304, Samsung F24T350FHW 24'' 75Hz IPS LED Monitor,https://www.startech.com.bd/samsung-f24t350fhw-ips-monitor,"
 TBA
-"
-303,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/samsung/f24t350fhw/f24t350fhw-228x228.JPG,Samsung F24T350FHW 24'' 75Hz IPS LED Monitor
+305," HP P27h G4 27"" Full HD IPS Monitor",https://www.startech.com.bd/hp-p27h-g4-fhd-ips-monitor,"
 TBA
-"
-304,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/p27h-g4/p27h-g4-1-228x228.jpg,"HP P27h G4 27"" Full HD IPS Monitor"
+306, ViewSonic VA2232-H 22” Full HD IPS Monitor,https://www.startech.com.bd/viewsonic-va2232-h-monitor,"
 TBA
-"
-305,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/va2232-h/va2232-h-01-228x228.jpg,ViewSonic VA2232-H 22” Full HD IPS Monitor
+307," ViewSonic VA2261-2 22"" 1080p Home and Office Monitor",https://www.startech.com.bd/viewsonic-va2261-2-monitor,"
 TBA
-"
-306,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/va2261-2/va2261-2-1-228x228.jpg,"ViewSonic VA2261-2 22"" 1080p Home and Office Monitor"
+308," HP P27V G4 27"" IPS LED Monitor",https://www.startech.com.bd/hp-p27v-g4-27-monitor,"
 TBA
-"
-307,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/p27v-g4/p27v-g4-228x228.jpg,"HP P27V G4 27"" IPS LED Monitor"
+309, Hikvision DS-D5019QE-B 19'' HD LED Backlight Monitor (HDMI),https://www.startech.com.bd/hikvision-surveillance-ds-d5019qe-b-backlight-monitor,"
 TBA
-"
-308,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hikvision/surveillance-ds-d5019qe-b/surveillance-ds-d5019qe-b-011-228x228.jpg,Hikvision DS-D5019QE-B 19'' HD LED Backlight Monitor (HDMI)
+310, ViewSonic VA2256-H 21.5'' 1080p FHD Home and Office Monitor,https://www.startech.com.bd/viewsonic-va2256-h-monitor,"
 TBA
-"
-309,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/va2256-h/va2256-h-1-228x228.jpg,ViewSonic VA2256-H 21.5'' 1080p FHD Home and Office Monitor
+311," ViewSonic VA2418-SH 23.8"" Full HD IPS Monitor",https://www.startech.com.bd/viewsonic-va2418-sh-monitor,"
 TBA
-"
-310,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/va2418-sh/va2418-sh-1-228x228.jpg,"ViewSonic VA2418-SH 23.8"" Full HD IPS Monitor"
+312," HP OMEN X25f 24.5"" Full HD 240Hz G-Sync Gaming Monitor",https://www.startech.com.bd/hp-omen-x-25f-gaming-monitor,"
 TBA
-"
-311,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/omen-x-25f/omen-x-25f-01-228x228.jpg,"HP OMEN X25f 24.5"" Full HD 240Hz G-Sync Gaming Monitor"
+313," HP E24 G4 23.8"" FHD IPS Monitor",https://www.startech.com.bd/hp-e24-g4-fhd-monitor,"
 TBA
-"
-312,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/e24-g4/e24-g4-010-228x228.jpg,"HP E24 G4 23.8"" FHD IPS Monitor"
+314," HP P24h G4 23.8"" FHD Monitor",https://www.startech.com.bd/hp-p24h-g4-monitor,"
 TBA
-"
-313,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/p24h-g4/p24h-g4-01-228x228.jpg,"HP P24h G4 23.8"" FHD Monitor"
+315, MSI Optix G27C5 27″ Curved FHD 165Hz Gaming Monitor,https://www.startech.com.bd/msi-optix-g27c5-27-monitor,"
 TBA
-"
-314,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/optix-g27c5-27/optix-g27c5-27-1-228x228.jpg,MSI Optix G27C5 27″ Curved FHD 165Hz Gaming Monitor
+316," MSI Optix G242 24"" 144 Hz FHD FreeSync eSports Gaming Monitor",https://www.startech.com.bd/msi-optix-g242-24-gaming-monitor,"
 TBA
-"
-315,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/optix-g242-24/optix-g242-24-228x228.jpg,"MSI Optix G242 24"" 144 Hz FHD FreeSync eSports Gaming Monitor"
+317, Samsung 27AM500 27'' M5 Smart WiFi FHD Monitor,https://www.startech.com.bd/samsung-27am500-m5-smart-wifi-monitor,"
 TBA
-"
-316,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/samsung/27am500-m5/27am500-m5-01-228x228.jpg,Samsung 27AM500 27'' M5 Smart WiFi FHD Monitor
+318, Samsung 32AM500 32'' M5 Smart WiFi FHD Monitor,https://www.startech.com.bd/samsung-32am500-m5-smart-wifi-monitor,"
 TBA
-"
-317,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/samsung/32am500-m5/32am500-m5-01-228x228.jpg,Samsung 32AM500 32'' M5 Smart WiFi FHD Monitor
+319," Samsung 32AM700 32"" M7 4K UHD Smart WiFi Monitor",https://www.startech.com.bd/samsung-32am700-m7-4k-uhd-smart-monitor,"
 TBA
-"
-318,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/samsung/32am700-m7/32am700-m7-01-228x228.jpg,"Samsung 32AM700 32"" M7 4K UHD Smart WiFi Monitor"
+320," Philips 242M8 24"" FHD IPS 144hz Gaming Monitor",https://www.startech.com.bd/philips-242m8-gaming-monitor,"
 TBA
-"
-319,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/philips/242m8/242m8-01-228x228.jpg,"Philips 242M8 24"" FHD IPS 144hz Gaming Monitor"
+321," HP V20 19.5"" HD+ LED TN Monitor",https://www.startech.com.bd/hp-v20-hd-monitor,"
 TBA
-"
-320,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/v20/v20-228x228.jpg,"HP V20 19.5"" HD+ LED TN Monitor"
+322," ASUS BE24AQLB 24"" IPS Business Monitor",https://www.startech.com.bd/asus-be24aqlb-monitor,"
 TBA
-"
-321,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/be24aqlb/be24aqlb-01-228x228.jpg,"ASUS BE24AQLB 24"" IPS Business Monitor"
+323," Asus VG255H 24.5"" FHD Freesync TN Console Gaming Monitor",https://www.startech.com.bd/asus-vg255h-gaming-monitor,"
 TBA
-"
-322,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vg255h/vg255h-01-228x228.jpg,"Asus VG255H 24.5"" FHD Freesync TN Console Gaming Monitor"
+324," HP Z24f G3 23.8"" IPS FHD Monitor",https://www.startech.com.bd/hp-z24f-g3-fhd-monitor,"
 TBA
-"
-323,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/z24f-g3/z24f-g3-01-228x228.jpg,"HP Z24f G3 23.8"" IPS FHD Monitor"
+325," Samsung C27G55T Odyssey G5 27"" 2K 144Hz Curved  Gaming Monitor",https://www.startech.com.bd/samsung-odyssey-g5-27-inch-monitor,"
 TBA
-"
-324,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/samsung/odyssey-g5-27-inch/odyssey-g5-27-inch-228x228.jpg,"Samsung C27G55T Odyssey G5 27"" 2K 144Hz Curved  Gaming Monitor"
+326, BenQ PD2700U DesignVue 27'' 4K UHD IPS Designer Monitor,https://www.startech.com.bd/benq-pd2700u-monitor,"
 TBA
-"
-325,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/benq/pd2700u/pd2700u-front-228x228.jpg,BenQ PD2700U DesignVue 27'' 4K UHD IPS Designer Monitor
+327," HP M24fw 24"" FHD IPS Monitor",https://www.startech.com.bd/hp-m24fw-24-inch-monitor,"
 TBA
-"
-326,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/m24fw/m24fw-228x228.jpg,"HP M24fw 24"" FHD IPS Monitor"
+328," LG 32UN880-B 32"" UltraFine Ergo 4K UHD HDR10 Monitor",https://www.startech.com.bd/lg-32un880-b-32-inch-ultrafine-ergo-monitor,"
 TBA
-"
-327,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/32un880-b/32un880-b-2-228x228.jpg,"LG 32UN880-B 32"" UltraFine Ergo 4K UHD HDR10 Monitor"
+329," HP Z27k G3 27"" 4K USB-C IPS Monitor",https://www.startech.com.bd/hp-z27k-g3-27-inch-4k-monitor,"
 TBA
-"
-328,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/z27k-g3/z27k-g3-228x228.jpg,"HP Z27k G3 27"" 4K USB-C IPS Monitor"
+330," ASUS TUF Gaming VG279Q1A 27"" FHD Gaming Monitor",https://www.startech.com.bd/asus-tuf-gaming-vg279q1a-gaming-monitor,"
 TBA
-"
-329,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vg279q1a/vg279q1a-1-228x228.jpg,"ASUS TUF Gaming VG279Q1A 27"" FHD Gaming Monitor"
+331," HP Z27Q G3 27"" 2K QHD IPS Monitor",https://www.startech.com.bd/hp-z27q-g3-27inch-monitor,"
 TBA
-"
-330,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/z27q-g3/z27q-g3-center-228x228.jpg,"HP Z27Q G3 27"" 2K QHD IPS Monitor"
+332, Asus VP32AQ 32-Inch 2K WQHD IPS Monitor,https://www.startech.com.bd/asus-vp32aq-32-inch-2k-ips-monitor,"
 TBA
-"
-331,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vp32aq/vp32aq-01-228x228.jpg,Asus VP32AQ 32-Inch 2K WQHD IPS Monitor
+333," GameMax GMX34CKXQ 34"" 144Hz 2K WQHD FreeSync G-Sync Curved Gaming Monitor",https://www.startech.com.bd/gamemax-gmx34ckxq-wqhd-gaming-monitor,"
 TBA
-"
-332,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/gamemax/gmx34ckxq/gmx34ckxq-01-228x228.jpg,"GameMax GMX34CKXQ 34"" 144Hz 2K WQHD FreeSync G-Sync Curved Gaming Monitor"
+334," Dell P2722H 27"" Full HD IPS Monitor",https://www.startech.com.bd/dell-p2722h-27-inch-monitor,"
 TBA
-"
-333,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/dell/p2722h/p2722h-01-228x228.jpg,"Dell P2722H 27"" Full HD IPS Monitor"
+335," AOC C24G1 24"" FHD Curved Frameless 144HZ Gaming Monitor",https://www.startech.com.bd/aoc-c24g1-24-inch-gaming-monitor,"
 TBA
-"
-334,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/aoc/c24g1/c24g1-02-228x228.jpg,"AOC C24G1 24"" FHD Curved Frameless 144HZ Gaming Monitor"
+336," AOC C27G1 27"" 144Hz FHD Curved Gaming Monitor",https://www.startech.com.bd/aoc-c27g1-27-inch-curved-gaming-monitor,"
 TBA
-"
-335,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/aoc/c24g1/c24g1-02-228x228.jpg,"AOC C27G1 27"" 144Hz FHD Curved Gaming Monitor"
+337, ASUS VZ24EHE IPS FHD 23.8 inch Ultra Slim Monitor,https://www.startech.com.bd/asus-vz24ehe-fhd-ultra-slim-monitor,"
 TBA
-"
-336,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vz24ehe/asus-vz24ehe-fhd-ultra-slim-monitor-001-228x228.jpg,ASUS VZ24EHE IPS FHD 23.8 inch Ultra Slim Monitor
+338," Gigabyte M32Q 32"" 165Hz QHD KVM IPS Gaming Monitor",https://www.startech.com.bd/gigabyte-m32q-32-inch-gaming-monitor,"
 TBA
-"
-337,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/gigabyte/m32q-32/m32q-32-01-228x228.jpg,"Gigabyte M32Q 32"" 165Hz QHD KVM IPS Gaming Monitor"
+339, Esonic 22ELMW 22-Inch LED HD Monitor,https://www.startech.com.bd/esonic-22elmw-22-inch-monitor,"
 TBA
-"
-338,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/esonic/22elmw/22elmw-0001-228x228.jpg,Esonic 22ELMW 22-Inch LED HD Monitor
+340, AOC E970SWN5 18.5 inch LED Backlit Monitor,https://www.startech.com.bd/aoc-e970swn5-led-monitor,"
 TBA
-"
-339,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/aoc/e970swn5/aoc-e970swn5-led-monitor-228x228.jpg,AOC E970SWN5 18.5 inch LED Backlit Monitor
+341," HP P19b G4 18.5"" Monitor",https://www.startech.com.bd/hp-p19b-g4-monitor,"
 TBA
-"
-340,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/p19b-g4/p19b-g4-03-228x228.jpg,"HP P19b G4 18.5"" Monitor"
+342," AOC E2270SWHN 21.5"" Full HD LED Monitor",https://www.startech.com.bd/aoc-e2270swhn-led-monitor,"
 TBA
-"
-341,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/aoc/e2270swhn/E2270Swhn-228x228.jpg,"AOC E2270SWHN 21.5"" Full HD LED Monitor"
+343, HP V22 21.5'' LED Full HD Monitor,https://www.startech.com.bd/hp-v22-full-hd-monitor,"
 TBA
-"
-342,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/v22/v22-1-228x228.jpg,HP V22 21.5'' LED Full HD Monitor
+344," HP P22va G4 21.5"" Full HD Monitor",https://www.startech.com.bd/hp-p22va-g4-fhd-monitor,"
 TBA
-"
-343,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/p22va-g4/p22va-g4-01-228x228.jpg,"HP P22va G4 21.5"" Full HD Monitor"
+345," Asus VZ229HE Eye Care Full HD IPS 21.5"" Monitor",https://www.startech.com.bd/asus-vz229he-monitor,"
 TBA
-"
-344,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vz229he/vz229he-228x228.jpg,"Asus VZ229HE Eye Care Full HD IPS 21.5"" Monitor"
+346," MSI Pro MP241 23.8"" FHD Professional IPS Monitor",https://www.startech.com.bd/msi-pro-mp241-23-8-monitor,"
 TBA
-"
-345,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/mp241-23-8-pro/mp241-23-8-pro-228x228.jpg,"MSI Pro MP241 23.8"" FHD Professional IPS Monitor"
+347," Dell SE2219HX 21.5"" LED Full HD Monitor ",https://www.startech.com.bd/dell-se2219hx-monitor,"
 TBA
-"
-346,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/dell/se2219hx/se2219hx-228x228.png,"Dell SE2219HX 21.5"" LED Full HD Monitor "
+348," LG 24MP500-B 23.8"" FreeSync Full HD IPS Monitor",https://www.startech.com.bd/lg-24mp500-b-23-8-inch-monitor,"
 TBA
-"
-347,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/27mp500-b/27mp500-b-228x228.jpg,"LG 24MP500-B 23.8"" FreeSync Full HD IPS Monitor"
+349," Viewsonic VX2458-C-MHD 24"" FHD 144Hz Curved Gaming Monitor",https://www.startech.com.bd/viewsonic-vx2458-c-mhd-144hz-curved-gaming-monitor,"
 TBA
-"
-348,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/vx2458/vx2458-1-228x228.jpg,"Viewsonic VX2458-C-MHD 24"" FHD 144Hz Curved Gaming Monitor"
+350," ASUS MB169BR+ 15.6"" FHD Portable USB Monitor",https://www.startech.com.bd/asus-mb169brplus-portable-usb-monitor,"
 TBA
-"
-349,"
-22,500৳ "
-350,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/mb169brplus/mb169brplus-02-228x228.jpg,"ASUS MB169BR+ 15.6"" FHD Portable USB Monitor"
+351," AOC G2490VX 23.8"" FHD 144Hz Gaming Monitor",https://www.startech.com.bd/aoc-g2490vx-gaming-monitor,"
+22,500৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/aoc/g2490vx/g2490vx-01-228x228.jpg,"AOC G2490VX 23.8"" FHD 144Hz Gaming Monitor"
+352," ASUS MB169B+ 15.6"" FHD IPS USB Portable Monitor",https://www.startech.com.bd/asus-mb169b-plus-usb-portable-monitor,"
 TBA
-"
-351,"
-21,900৳ "
-352,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/mb169b-plus/mb169b-plus-01-228x228.jpg,"ASUS MB169B+ 15.6"" FHD IPS USB Portable Monitor"
+353," Gigabyte G24F 23.8"" 170Hz Full HD IPS Gaming Monitor",https://www.startech.com.bd/gigabyte-g24f-23-8-gaming-monitor,"
+21,900৳ ",https://www.startech.com.bd/image/cache/catalog/monitor/gigabyte/g24f-23-8/g24f-23-8-2-228x228.jpg,"Gigabyte G24F 23.8"" 170Hz Full HD IPS Gaming Monitor"
+354," ViewSonic VX2481-MH 24"" 75Hz Full HD Monitor",https://www.startech.com.bd/viewsonic-vx2481-mh-24-monitor,"
 TBA
-"
-353,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/vx2481-mh/vx2481-mh-228x228.jpg,"ViewSonic VX2481-MH 24"" 75Hz Full HD Monitor"
+355, Benq Zowie XL2411P 144Hz 24 inch 1ms e-Sports Monitor,https://www.startech.com.bd/benq-zowie-xl2411p-monitor,"
 TBA
-"
-354,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/benq/xl2411p/zowie-xl2411p-001-228x228.jpg,Benq Zowie XL2411P 144Hz 24 inch 1ms e-Sports Monitor
+356," Dell S2419HGF 24"" 144Hz Gaming Monitor",https://www.startech.com.bd/dell-s2419hgf-monitor,"
 TBA
-"
-355,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/dell/s2419hgf/s2419hgf-228x228.jpg,"Dell S2419HGF 24"" 144Hz Gaming Monitor"
+357, Asus TUF VG249Q1R 23.8'' 144Hz Full HD IPS LED Gaming Monitor,https://www.startech.com.bd/asus-tuf-vg249q1r-23-8-gaming-monitor,"
 TBA
-"
-356,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/tuf-vg249q1r/tuf-vg249q1r-228x228.jpg,Asus TUF VG249Q1R 23.8'' 144Hz Full HD IPS LED Gaming Monitor
+358," Viewsonic VX2418-P-MHD 24"" 165Hz FHD Gaming Monitor",https://www.startech.com.bd/viewsonic-vx2418-p-mhd-24-monitor,"
 TBA
-"
-357,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/vx2418-p-mhd-24/vx2418-p-mhd-24-228x228.jpg,"Viewsonic VX2418-P-MHD 24"" 165Hz FHD Gaming Monitor"
+359," Dell P2422H 24"" Full HD IPS Monitor",https://www.startech.com.bd/dell-p2422h-24-inch-monitor,"
 TBA
-"
-358,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/dell/p2422h/p2422h-01-228x228.jpg,"Dell P2422H 24"" Full HD IPS Monitor"
+360," GIGABYTE G27F 27"" 144Hz 1080P Gaming Monitor",https://www.startech.com.bd/gigabyte-g27f-gaming-monitor,"
 TBA
-"
-359,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/gigabyte/g27f/g27f-010-228x228.jpg,"GIGABYTE G27F 27"" 144Hz 1080P Gaming Monitor"
+361, Asus VZ279HE Eye Care 27 inch IPS Full HD Monitor,https://www.startech.com.bd/asus-vz279he-ips-monitor,"
 TBA
-"
-360,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vz279he/vz279he-228x228.jpg,Asus VZ279HE Eye Care 27 inch IPS Full HD Monitor
+362, MSI Modern MD271P 27 Inch FHD IPS Type-C Monitor,https://www.startech.com.bd/msi-modern-md271p-fhd-monitor,"
 TBA
-"
-361,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/md271p/md271p-02-228x228.jpg,MSI Modern MD271P 27 Inch FHD IPS Type-C Monitor
+363," Gamemax GMX 27 C144 27"" FHD Ultra Wide Curved Gaming Monitor - Black",https://www.startech.com.bd/gamemax-gmx-27-c144-27-inch-gaming-monitor,"
 TBA
-"
-362,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/gamemax/gmx-27-c144/gmx-27-c144-02-228x228.jpg,"Gamemax GMX 27 C144 27"" FHD Ultra Wide Curved Gaming Monitor - Black"
+364, Dell S2721HN 27'' IPS AMD FreeSync Full HD Monitor,https://www.startech.com.bd/dell-s2721hn-full-hd-monitor,"
 TBA
-"
-363,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/dell/s2721hn/s2721hn-01-228x228.jpg,Dell S2721HN 27'' IPS AMD FreeSync Full HD Monitor
+365, MSI Modern MD271PW 27 Inch FHD IPS Type-C Monitor,https://www.startech.com.bd/msi-modern-md271pw-fhd-monitor,"
 TBA
-"
-364,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/modern-md271pw/modern-md271pw-01-228x228.jpg,MSI Modern MD271PW 27 Inch FHD IPS Type-C Monitor
+366," ASUS VZ279H 27"" Full HD IPS Ultra-Slim Frameless Monitor",https://www.startech.com.bd/asus-vz279h-27-inch-full-hd-monitor,"
 TBA
-"
-365,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vz279h/vz279h-01-228x228.jpg,"ASUS VZ279H 27"" Full HD IPS Ultra-Slim Frameless Monitor"
+367," Asus VZ279HEG1R 27"" Full HD IPS Gaming Monitor",https://www.startech.com.bd/asus-vz279heg1r-fhd-ips-gaming-monitor,"
 TBA
-"
-366,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vz279heg1r/vz279heg1r-01-228x228.jpg,"Asus VZ279HEG1R 27"" Full HD IPS Gaming Monitor"
+368, HP 27FW 27'' Ultraslim Full HD IPS Monitor,https://www.startech.com.bd/hp-27fw-27-inch-ultraslim-full-hd-ips-monitor,"
 TBA
-"
-367,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/27fw/27fw-228x228.jpg,HP 27FW 27'' Ultraslim Full HD IPS Monitor
+369," Gamemax GMX 27 C144 27"" FHD Ultra Wide Curved Gaming Monitor - White",https://www.startech.com.bd/gamemax-gmx-27-c144-27-inch-gaming-monitor-white,"
 TBA
-"
-368,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/gamemax/gmx-27-c144/gmx-27-c144-001-228x228.jpg,"Gamemax GMX 27 C144 27"" FHD Ultra Wide Curved Gaming Monitor - White"
+370," ASUS VG248QG 24"" Full HD 165Hz G-SYNC Compatible Gaming Monitor",https://www.startech.com.bd/asus-vg248qg-gaming-monitor,"
 TBA
-"
-369,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vg248qg/vg248qg-228x228.jpg,"ASUS VG248QG 24"" Full HD 165Hz G-SYNC Compatible Gaming Monitor"
+371," MSI Optix G271 27"" 144Hz FreeSync FHD IPS Gaming Monitor",https://www.startech.com.bd/msi-optix-g271-27-gaming-monitor,"
 TBA
-"
-370,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/optix-g271-27/optix-g271-27-228x228.jpg,"MSI Optix G271 27"" 144Hz FreeSync FHD IPS Gaming Monitor"
+372," ViewSonic TD2223 22"" IR Touch Monitor",https://www.startech.com.bd/viewsonic-td2223-22-inch-ip-touch-monitor,"
 TBA
-"
-371,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/td2223/td2223-01-228x228.jpg,"ViewSonic TD2223 22"" IR Touch Monitor"
+373," ASUS VT229H 21.5"" Full HD 5ms Low Blue Light Flicker Free Touch Monitor ",https://www.startech.com.bd/asus-vt229h-touch-monitor ,"
 TBA
-"
-372,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vt229h/vt229h-1-228x228.jpg,"ASUS VT229H 21.5"" Full HD 5ms Low Blue Light Flicker Free Touch Monitor "
+374," HP E24T G4 23.8"" FHD Touch Monitor",https://www.startech.com.bd/hp-e24t-g4-touch-monitor,"
 TBA
-"
-373,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/e24t-g4/e24t-g4-01-228x228.jpg,"HP E24T G4 23.8"" FHD Touch Monitor"
+375," ASUS VP28UQG 28"" 4K UHD Gaming Monitor",https://www.startech.com.bd/asus-vp28uqg-4k-uhd-gaming-monitor,"
 TBA
-"
-374,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vp28uqg/vp28uqg-1-228x228.jpg,"ASUS VP28UQG 28"" 4K UHD Gaming Monitor"
+376, LG 27GL650F-B 27 Inch Full HD 144Hz  Ultra Gear Gaming Monitor,https://www.startech.com.bd/lg-27gl650f-b-gaming-monitor,"
 TBA
-"
-375,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/27gl650f/27gl650f-228x228.jpg,LG 27GL650F-B 27 Inch Full HD 144Hz  Ultra Gear Gaming Monitor
+377, ViewSonic VX2780-2K-SHDJ 27” 2K QHD IPS Entertainment Monitor,https://www.startech.com.bd/viewsonic-vx2780-2k-shdj-27-inch-2k-qhd-monitor,"
 TBA
-"
-376,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/vx2780-2k-shdj/vx2780-2k-shdj-01-228x228.jpg,ViewSonic VX2780-2K-SHDJ 27” 2K QHD IPS Entertainment Monitor
+378," Benq Mobiuz EX2510 24.5"" 144Hz 1ms IPS Gaming Monitor",https://www.startech.com.bd/benq-mobiuz-ex2510-25-monitor,"
 TBA
-"
-377,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/benq/mobiuz-ex2510/mobiuz-ex2510-228x228.jpg,"Benq Mobiuz EX2510 24.5"" 144Hz 1ms IPS Gaming Monitor"
+379, ASUS TUF VG27VQ 27'' Full HD 165Hz Free-SYNC Curved Gaming Monitor,https://www.startech.com.bd/asus-tuf-gaming-vg27vq-curved-monitor,"
 TBA
-"
-378,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vg27vq/vg27vq-1-228x228.jpg,ASUS TUF VG27VQ 27'' Full HD 165Hz Free-SYNC Curved Gaming Monitor
+380, ASUS TUF VG27VH1B 27 Inch 165Hz Curved Gaming Monitor,https://www.startech.com.bd/asus-tuf-vg27vh1b-27-inch-monitor,"
 TBA
-"
-379,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/tuf-vg27vh1b/tuf-vg27vh1b-1-228x228.jpg,ASUS TUF VG27VH1B 27 Inch 165Hz Curved Gaming Monitor
+381," Gigabyte G27QC 27"" 165Hz QHD Curved Gaming Monitor",https://www.startech.com.bd/gigabyte-g27qc-27-inch--qhd-curved-gaming-monitor,"
 TBA
-"
-380,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/gigabyte/g27qc/g27qc-03-228x228.jpg,"Gigabyte G27QC 27"" 165Hz QHD Curved Gaming Monitor"
+382," Xiaomi Mi 34"" 144Hz FreeSync Curved Monitor 1 Year Parts Warranty",https://www.startech.com.bd/xiaomi-mi-34-curved-monitor,"
 TBA
-"
-381,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/xiaomi/redmi-34-curved/redmi-34-curved-228x228.jpg,"Xiaomi Mi 34"" 144Hz FreeSync Curved Monitor 1 Year Parts Warranty"
+383," GIGABYTE M27Q 27"" QHD 170Hz 1440P KVM IPS Gaming Monitor",https://www.startech.com.bd/gigabyte-m27q-gaming-monitor,"
 TBA
-"
-382,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/gigabyte/m27q/m27q-01-228x228.jpg,"GIGABYTE M27Q 27"" QHD 170Hz 1440P KVM IPS Gaming Monitor"
+384," MSI Optix MAG272CQR 27"" 165Hz QWHD Gaming Monitor",https://www.startech.com.bd/msi-optix-mag272cqr-27-gaming-monitor,"
 TBA
-"
-383,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/msi/optix-mag272cqr-27/optix-mag272cqr-27-228x228.jpg,"MSI Optix MAG272CQR 27"" 165Hz QWHD Gaming Monitor"
+385, ASUS TUF VG289Q 28” 4K UHD IPS Freesync Gaming Monitor,https://www.startech.com.bd/asus-tuf-vg289q-gaming-monitor,"
 TBA
-"
-384,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/tuf-vg289q/tuf-vg289q-01-228x228.jpg,ASUS TUF VG289Q 28” 4K UHD IPS Freesync Gaming Monitor
+386," HP U28 28"" 4K UHD HDR Monitor",https://www.startech.com.bd/hp-u28-28-inch-4k-uhd-hdr-monitor,"
 TBA
-"
-385,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/u28/u28-01-228x228.jpg,"HP U28 28"" 4K UHD HDR Monitor"
+387," HP U28 G3 28"" 4K HDR Monitor",https://www.startech.com.bd/hp-u28-g3-4k-hdr-monitor,"
 TBA
-"
-386,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/u28-g3/u28-g3-01-228x228.jpg,"HP U28 G3 28"" 4K HDR Monitor"
+388, LG 27UP850-W 27” 4K UHD HDR Monitor,https://www.startech.com.bd/lg-27up850-w-27-inch-4k-monitor,"
 TBA
-"
-387,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/27up850-w/27up850-w-1-228x228.jpg,LG 27UP850-W 27” 4K UHD HDR Monitor
+389," Dell U2720Q UltraSharp 27"" 4K USB-C Monitor",https://www.startech.com.bd/dell-u2720q-ultrasharp-27-monitor,"
 TBA
-"
-388,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/dell/u2720q-ultrasharp-27/u2720q-ultrasharp-27-228x228.jpg,"Dell U2720Q UltraSharp 27"" 4K USB-C Monitor"
+390," Samsung Odyssey G7 LC32G75TQS 32"" 240Hz Curved Gaming Monitor",https://www.startech.com.bd/samsung-odyssey-g7-lc32g75tqs-curved-gaming-monitor,"
 TBA
-"
-389,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/samsung/odyssey-g7/odyssey-g7-01-228x228.jpg,"Samsung Odyssey G7 LC32G75TQS 32"" 240Hz Curved Gaming Monitor"
+391, LG 43UN700-B 43'' 4K UHD IPS Monitor,https://www.startech.com.bd/lg-43un700-b-uhd-ips-monitor,"
 TBA
-"
-390,"
+",https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/43un700-b/43un700-b-1-228x228.jpg,LG 43UN700-B 43'' 4K UHD IPS Monitor
+392," Asus ProArt Display PA32UCX-PK 32"" 4K HDR IPS Monitor",https://www.startech.com.bd/asus-proart-display-pa32ucx-pk-32-inch-4k-ips-monitor,"
 TBA
-"
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/proart-display-pa32ucx-pk/proart-display-pa32ucx-pk-01-228x228.jpg,"Asus ProArt Display PA32UCX-PK 32"" 4K HDR IPS Monitor"
+393, ASUS VP278QGL 27” Full HD 1ms FreeSync Gaming Monitor,https://www.startech.com.bd/asus-vp278qgl-27-inch-fhd-gaming-monitor,"
+TBA
+",https://www.startech.com.bd/image/cache/catalog/monitor/asus/vp278qgl/vp278qgl-228x228.jpg,ASUS VP278QGL 27” Full HD 1ms FreeSync Gaming Monitor
